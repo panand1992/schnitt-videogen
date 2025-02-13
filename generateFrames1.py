@@ -114,63 +114,63 @@ def create_folder_and_clear_files(folderPath):
 def generate_frames(arr, index):
     # if f_index < len(arr[index]['frameSubprompts']):
     print("processing frame - " + str(index))
-    # image_prompt = arr[index]['prompt'].replace('video', 'image')
-    # image_prompt += " All the people in the image should be South Indian. Settings also in the image should be South Indian"
-    # output = replicate.run(
-    #     "black-forest-labs/flux-1.1-pro",
-    #     input={
-    #         "prompt": image_prompt,
-    #         "aspect_ratio": "16:9",
-    #         "output_format": "png",
-    #         "output_quality": 80,
-    #         "safety_tolerance": 2,
-    #         "prompt_upsampling": True,
-    #         # "seed": seed
-    #     }
-    # )
-    # print(output)
-    # ts = time.time()
-    # save_file_path = f"videos/video{index}/image_{str(int(ts))}_" + \
-    #     f"{uuid.uuid4()}.png"
-    # response1 = requests.get(output)
-    # if response1.status_code == 200:
-    #     with open(save_file_path, "wb") as file:
-    #         file.write(response1.content)
-    #     print(f"Image saved as {save_file_path}")
-    #     file_key = f"videos/generation/frames/image_{str(int(ts))}_{uuid.uuid4()}.png"
-    #     uploaded_image_url = upload_file_s3(save_file_path, file_key)
-    #     arr[index]['frameUrl'] = uploaded_image_url
-    #     with open('./src/js/constants/promptDataFinal.json', 'w') as file:
-    #         json.dump(arr, file, indent=4)
+    image_prompt = arr[index]['prompt'].replace('video', 'image')
+    image_prompt += " All the people in the image should be South Indian. Settings also in the image should be South Indian"
+    output = replicate.run(
+        "black-forest-labs/flux-1.1-pro",
+        input={
+            "prompt": image_prompt,
+            "aspect_ratio": "16:9",
+            "output_format": "png",
+            "output_quality": 80,
+            "safety_tolerance": 2,
+            "prompt_upsampling": True,
+            # "seed": seed
+        }
+    )
+    print(output)
+    ts = time.time()
+    save_file_path = f"videos/video{index}/image_{str(int(ts))}_" + \
+        f"{uuid.uuid4()}.png"
+    response1 = requests.get(output)
+    if response1.status_code == 200:
+        with open(save_file_path, "wb") as file:
+            file.write(response1.content)
+        print(f"Image saved as {save_file_path}")
+        file_key = f"videos/generation/frames/image_{str(int(ts))}_{uuid.uuid4()}.png"
+        uploaded_image_url = upload_file_s3(save_file_path, file_key)
+        arr[index]['frameUrl'] = uploaded_image_url
+        with open('./src/js/constants/promptDataFinal.json', 'w') as file:
+            json.dump(arr, file, indent=4)
+    else:
+        print("error in generating frame")
+    # generate_frames(arr, seed, index, f_index + 1)
     # else:
-    #     print("error in generating frame")
-    # # generate_frames(arr, seed, index, f_index + 1)
-    # # else:
-    # print("frames done")
-    # print(uploaded_image_url)
+    print("frames done")
+    print(uploaded_image_url)
     # generate_scenes(arr, index, 0)
     video_prompt = arr[index]['prompt']
     video_prompt += " All the people in the video should be South Indian. Settings also in the video should be South Indian"
-    # output1 = replicate.run(
-    #     "kwaivgi/kling-v1.6-pro",
-    #     input={
-    #         "prompt": video_prompt,
-    #         "duration": 10,
-    #         "cfg_scale": 0.5,
-    #         "start_image": f"{S3_ENDPOINT}{uploaded_image_url}",
-    #         "aspect_ratio": "16:9",
-    #         "negative_prompt": ""
-    #     }
-    # )
     output1 = replicate.run(
-        "luma/ray-2-720p",
+        "kwaivgi/kling-v1.6-pro",
         input={
-            "loop": False,
             "prompt": video_prompt,
-            "duration": 9,
-            "aspect_ratio": "16:9"
+            "duration": 10,
+            "cfg_scale": 0.5,
+            "start_image": f"{S3_ENDPOINT}{uploaded_image_url}",
+            "aspect_ratio": "16:9",
+            "negative_prompt": ""
         }
     )
+    # output1 = replicate.run(
+    #     "luma/ray-2-720p",
+    #     input={
+    #         "loop": False,
+    #         "prompt": video_prompt,
+    #         "duration": 9,
+    #         "aspect_ratio": "16:9"
+    #     }
+    # )
     print(output1)
     ts1 = time.time()
     save_file_path1 = f"videos/video{index}/video_{str(int(ts1))}_" + \
@@ -217,7 +217,7 @@ def generate_frames(arr, index):
     file_key1 = f"videos/generation/video_{str(int(ts1))}_{uuid.uuid4()}.mp4"
     uploaded_video_url = upload_file_s3(output_path, file_key1)
     arr[index]['videoUrl'] = uploaded_video_url
-    with open('./src/js/constants/promptDataProcessed1.json', 'w') as file:
+    with open('./src/js/constants/promptDataBatch2Processed1.json', 'w') as file:
         json.dump(arr, file, indent=4)
     # else:
     #     print("error in generating frame")
@@ -225,7 +225,7 @@ def generate_frames(arr, index):
 
 
 def process_generation(arr, index):
-    if index < 20:
+    if index < 100:
         print("processing prompt - " + str(index))
         folder_path = f"videos/video{index}"
         create_folder_and_clear_files(folder_path)
@@ -236,9 +236,9 @@ def process_generation(arr, index):
 
 
 def init_generation():
-    with open('./src/js/constants/promptData.json', 'r') as file:
+    with open('./src/js/constants/promptDataBatch2.json', 'r') as file:
         prompt_arr = json.load(file)
-    process_generation(prompt_arr, 10)
+    process_generation(prompt_arr, 50)
 
 
 init_generation()
