@@ -1,0 +1,756 @@
+[
+    {
+        "promptCode": "M1L1P1",
+        "prompt": "Generate a video starting with a blueprint design of a luxury hotel facade. As the animation progresses, the blueprint lines gradually transform into a fully constructed, elegant hotel building. Ensure a smooth transition, highlighting the progression from planning to completion, with refined architectural details coming into focus to emphasize the luxury aspect. \r"
+    },
+    {
+        "promptCode": "M1L1P6",
+        "prompt": "Generate a video starting with a wide shot of a large luxury hotel surrounded by lush greenery and trees. The camera smoothly moves to the back of the hotel, revealing large-scale recycling bins and compost bins neatly arranged. Two inspectors are present\u2014one reviewing an environmental report near the recycling bins, and the other inspecting the compost. Capture close-up shots of the inspectors documenting their findings to visually demonstrate the inspection process required for environmental clearance. Keep the tone professional and focused on environmental responsibility. "
+    },
+    {
+        "promptCode": "M1L1P7",
+        "prompt": "Generate a video of a hotel receptionist entering guest records into a computer system with focused yet friendly body language. In the background, a police officer reviews the hotel\u2019s physical guest record logbook, carefully scanning through the entries. The officer then picks up paperwork labeled \"Police License\" from a nearby desk, indicating regulatory review. Ensure smooth transitions between actions, maintaining a professional and realistic tone throughout."
+    },
+    {
+        "promptCode": "M1L1P8",
+        "prompt": "Generate a video of a newly constructed hotel, where an inspector carefully reviews blueprints on a table. After inspecting, the inspector gives a confident thumbs-up. Beside the blueprints, prominently display a document labeled \"Occupancy Certificate.\" In the background, ensure the hotel building is visible to emphasize completion and approval. Keep the scene professional, with smooth animations or transitions to reflect a formal inspection process."
+    },
+    {
+        "promptCode": "M1L1P9",
+        "prompt": "Generate a video of a hotel elevator being inspected by an inspector. The inspector stands in front of the open elevator doors, holding a clipboard and checking off items on a checklist. A sign above the elevator reads \u201cLift Clearance.\u201d Ensure the setting reflects a hotel environment, with subtle background details like clean walls and lighting, emphasizing the importance of inspection and compliance."
+    },
+    {
+        "promptCode": "M1L1P10",
+        "prompt": "Generate a video of a closed hotel swimming pool with a \"License Pending\" sign displayed prominently. Show an inspector in professional attire holding a clipboard and a water testing kit, carefully conducting tests by the poolside. The setting should emphasize that the pool is not open to guests, with barriers or ropes subtly present to indicate closure. Ensure the inspector's actions, such as taking water samples and making notes on the clipboard, are clearly visible to convey the licensing inspection process."
+    },
+    {
+        "promptCode": "M1L1P11",
+        "prompt": "Generate a video of a hotel manager dressed in a formal suit, standing in the elegant lobby of a newly constructed luxury hotel. The manager is handing over documents to an inspector, who reviews them attentively. In the background, a star-rating chart is prominently displayed on a wall. Another inspector is visible, walking through the lobby, evaluating the hotel's facilities with a clipboard in hand, adding to the atmosphere of an official inspection. Ensure the setting reflects a luxurious and modern design, with smooth, professional interactions between the characters."
+    },
+    {
+        "promptCode": "M1L1P12",
+        "prompt": "Generate a video of a hotel manager organizing and submitting paperwork to different local authorities. Depict the manager visiting or interacting with representatives from departments like Public Works (PWD) and Sanitation. The scenes should include moments of document handovers, signatures, and polite conversations, emphasizing professionalism and the importance of compliance. Keep the setting realistic, with appropriate office environments and subtle elements that reflect each authority\u2019s role."
+    },
+    {
+        "promptCode": "M1L1P13",
+        "prompt": "Generate a video of various documents and certificates sliding neatly onto a desk, one by one. In the background, a modern hotel building subtly fades into view, symbolizing the hotel's readiness for operation. Keep the scene smooth and professional, with a cohesive flow that aligns with the narrator\u2019s dialogue about required licenses and compliance."
+    },
+    {
+        "promptCode": "M2L1P1",
+        "prompt": "Create a smooth zoom-in shot of a well-maintained hotel lobby. The scene should feature staff interacting professionally with guests, demonstrating excellent service. Subtly integrate safety features, such as a visible fire extinguisher, an exit sign, and a clean, organized environment, ensuring they blend naturally into the luxurious setting. Maintain a polished and welcoming atmosphere throughout the shot."
+    },
+    {
+        "promptCode": "M2L1P2",
+        "prompt": "Create a scene showing hospitality staff actively participating in a safety drill within a hotel lobby. The manager is at the center, clearly demonstrating emergency procedures, while staff members follow along attentively. Guests in the background observe with interest, adding a sense of realism. Ensure the setting reflects a professional and organized environment, with clear visual cues of the hotel interior, such as reception desks and decor, to emphasize the lobby location.",
+        "videoUrl": "videos/generation/video_1739445587_5878183a-0621-4e52-aab2-e971aa456785.mp4"
+    },
+    {
+        "promptCode": "M2L1P3",
+        "prompt": "Create a scene of a chef in a well-organized professional kitchen, meticulously sealing and labeling food containers. Ensure the counters are neatly arranged with clean utensils and fresh ingredients to showcase proper food handling and storage practices. The focus should be on the chef\u2019s precise movements and attention to detail, reflecting hygiene and professionalism throughout the process.",
+        "videoUrl": "videos/generation/video_1739445814_15095019-4fa8-4c93-afbc-f7649b9f7bf8.mp4"
+    },
+    {
+        "promptCode": "M2L1P4",
+        "prompt": "Create a visual scene featuring construction workers actively engaged at a hotel construction site. They should be wearing proper safety gear, with some workers painting, others lifting materials, and performing tasks in an organized manner. The environment should be clean, with a water station visibly placed nearby to emphasize welfare and sanitation measures on-site. Ensure the atmosphere feels professional, safe, and well-maintained, reflecting attention to worker well-being.",
+        "videoUrl": "videos/generation/video_1739445983_eb78602a-6644-46e6-a8d6-bcd7d1e38267.mp4"
+    },
+    {
+        "promptCode": "M2L1P5",
+        "prompt": "Create a visual of a hotel exterior, featuring labeled waste bins for recycling and general waste placed neatly. Include trees gently swaying in the breeze to represent noise control. The background should display clear blue skies, with clean water flowing through a small garden fountain, evoking a sense of environmental care and tranquility. Ensure the scene feels serene and emphasizes the hotel's commitment to sustainability and cleanliness.",
+        "videoUrl": "videos/generation/video_1739446198_df0dc3cf-f546-48e1-bc9e-1a7caf16eac9.mp4"
+    },
+    {
+        "promptCode": "M2L1P6",
+        "prompt": "Create a video scene showcasing a hotel interior equipped with fire alarms, extinguishers, and clearly marked emergency exit signs. Show hotel staff actively participating in a fire drill, following safety protocols by guiding guests to exits and checking fire equipment. Emphasize preparedness and safety in action, with smooth transitions between different areas of the hotel.",
+        "videoUrl": "videos/generation/video_1739446363_6f317e49-8a44-4cf5-b126-5bea7616a23e.mp4"
+    },
+    {
+        "promptCode": "M2L1P7",
+        "prompt": "Create a video showing a hotel interior equipped with fire alarms, extinguishers, and clearly marked emergency exit signs, with staff actively participating in a fire drill. In the next scene, depict a hotel worker receiving medical care after a workplace accident, followed by an official handing over a compensation form. Ensure safety signs are visible in the background to reinforce the importance of safety protocols and compliance. Maintain a professional and realistic tone throughout.",
+        "videoUrl": "videos/generation/video_1739446526_b0dced5c-f4ba-4b3d-8f50-2df6e706d739.mp4"
+    },
+    {
+        "promptCode": "M2L1P8",
+        "prompt": "Create a scene showing hotel housekeeping and maintenance workers dressed in appropriate safety gear, working in clean and well-organized conditions. Include a visible sign in the background or on-screen that highlights their rights and legal protections, emphasizing a safe and compliant work environment. Ensure the visuals convey professionalism, safety, and respect for labor standards."
+    },
+    {
+        "promptCode": "M2L1P9",
+        "prompt": "Create a detailed visual sequence showing hotel staff actively engaged in safety practices. Begin with one employee demonstrating the correct use of equipment, followed by another carefully handling cleaning chemicals while wearing safety gloves. Conclude with a supervisor conducting a safety audit, checking protocols. Set the scene in a well-lit hotel lobby, ensuring visible emergency exit signage in the background to highlight safety compliance. The transitions should feel natural, with a professional tone that emphasizes attention to detail."
+    },
+    {
+        "promptCode": "M2L2P1",
+        "prompt": "Create a video set in a hotel environment, showcasing staff performing tasks with a focus on safety. Feature a chef adhering to hygiene protocols in the kitchen, a cleaner wearing protective gloves while working, and a fire safety plan prominently displayed on the wall. Ensure the scenes flow seamlessly, emphasizing the hotel's commitment to comprehensive health and safety practices across different departments. Use professional lighting and framing to highlight the importance of these measures."
+    },
+    {
+        "promptCode": "M2L2P2",
+        "prompt": "Create a hotel environment where staff are shown engaging in various safety practices. Include scenes of employees inspecting fire equipment, maintaining proper food hygiene, and conducting a safety training session. In the background, display a compliance checklist subtly integrated into the setting to emphasize the hotel's adherence to safety standards. Ensure smooth transitions between activities, maintaining a professional and organized tone throughout the video."
+    },
+    {
+        "promptCode": "M2L2P3",
+        "prompt": "Create a dynamic hotel kitchen scene where chefs are actively preparing dishes, showcasing proper hygiene practices, such as wearing gloves, hairnets, and aprons. Include an inspector on-site, reviewing a checklist to ensure compliance with regulations. Prominently display a framed \"FSSAI License\" certificate on the wall to emphasize the kitchen\u2019s adherence to food safety standards. Ensure the environment feels clean, organized, and efficient, with smooth camera movements that highlight both the professionalism of the staff and the importance of regulatory compliance."
+    },
+    {
+        "promptCode": "M2L2P4",
+        "prompt": "Create a video scene of an active hotel construction site, featuring workers wearing appropriate safety gear such as helmets, gloves, and reflective vests. Include scaffolding properly set up around the structure, with visible first aid and sanitation stations strategically placed on-site. Ensure the environment looks organized and compliant with safety regulations, with workers engaged in tasks that reflect real construction processes. The tone should convey professionalism, safety, and progress."
+    },
+    {
+        "promptCode": "M2L2P5",
+        "prompt": "Create a visual of a hotel interior showcasing visible fire alarms, sprinklers, fire extinguishers, and clearly marked emergency exit signs. In the scene, show hotel staff actively participating in a fire drill, demonstrating procedures such as guiding guests to exits, checking rooms, and using fire safety equipment. Ensure the setting feels realistic, with smooth transitions between actions to emphasize preparedness and safety compliance."
+    },
+    {
+        "promptCode": "M2L2P6",
+        "prompt": "Create a video showcasing hotel workers, such as housekeepers and maintenance staff, performing their tasks while wearing appropriate safety gear (e.g., gloves, masks, and uniforms). Include scenes of supervisors monitoring the workplace to ensure safe, hygienic conditions and compliance with safety protocols. Capture the interactions naturally, highlighting both teamwork and the importance of safety in daily operations."
+    },
+    {
+        "promptCode": "M2L2P7",
+        "prompt": "Create a scene featuring a hotel employee relaxing in a clean, well-maintained break room, emphasizing the availability of comfortable facilities. Transition to visuals showing clearly communicated working hours on a notice board, followed by night shift workers being transported safely in a designated vehicle. Ensure the video conveys a sense of employee welfare and safety, with smooth transitions and a professional, reassuring tone."
+    },
+    {
+        "promptCode": "M2L2P8",
+        "prompt": "Create a scene showing hotel staff carefully handling cleaning chemicals in a laundry or kitchen area, following safety procedures. Include a supervisor observing attentively, ensuring protocols are met. In the background, display a notice board with a prominently placed insurance certificate to emphasize compliance and safety standards. The setting should feel realistic and well-organized, with clear attention to detail in both the staff\u2019s actions and the environment."
+    },
+    {
+        "promptCode": "M2L2P9",
+        "prompt": "Create a scene depicting hotel staff participating in a safety training session, with first aid kits and fire safety equipment clearly visible. Show an inspector reviewing safety records and logs, emphasizing attention to compliance. The setting should reflect a professional training environment, with smooth transitions between the staff\u2019s engagement and the inspector\u2019s audit to highlight the importance of preparedness and accountability."
+    },
+    {
+        "promptCode": "M2L2P10",
+        "prompt": "Create a video sequence showcasing a hotel environment where staff are working safely, performing their duties with care and precision. Include a scene of a satisfied guest checking in at the front desk, greeted warmly by the staff. Conclude with a compliance officer reviewing safety records in an office setting, reinforcing the importance of adherence to safety protocols. Ensure smooth transitions between scenes, with a professional and welcoming atmosphere throughout."
+    },
+    {
+        "promptCode": "M2L3P1",
+        "prompt": "Create a realistic video of hospitality employees gathered in a hotel setting, attentively participating in a safety briefing led by a supervisor. Ensure the environment reflects an authentic workspace, with staff actively engaged and taking notes. Safety posters should be visible on the walls, reinforcing key practices. Incorporate a smooth transition toward the end of the scene, introducing the \"Occupational Safety, Health, and Working Conditions Code of 2020\" as text overlay, ensuring it integrates naturally with the setting and maintains the professional tone."
+    },
+    {
+        "promptCode": "M2L3P2",
+        "prompt": "Create a realistic scene featuring hotel employees engaged in various tasks to demonstrate adherence to safety protocols and SOPs. Capture one employee operating equipment safely, another focused on maintaining hygiene through proper cleaning practices, and a third reviewing an emergency response plan. Set the activities within authentic hotel spaces, such as a housekeeping area or lobby, ensuring the environment reflects professional standards. The video should convey a clear sense of routine operations with an emphasis on safety and compliance."
+    },
+    {
+        "promptCode": "M2L3P3",
+        "prompt": "Create a video sequence featuring hotel staff actively participating in a fire drill, including evacuating guests and using fire extinguishers. Transition to a first aid training session, showing employees practicing CPR and basic wound care. Emphasize the importance of health and safety training by highlighting teamwork, attentiveness, and preparedness in both scenarios. Use smooth transitions between scenes to maintain flow, with a professional setting that reflects the hotel environment."
+    },
+    {
+        "promptCode": "M2L3P4",
+        "prompt": "Create a video sequence featuring a hotel staff member carefully operating equipment. Start with a chef using a kitchen appliance, such as a commercial mixer, ensuring visible safety guards are in place. Then, transition to a housekeeper inspecting and operating a laundry machine, checking for proper settings and safeguards. Include a supervisor standing nearby, observing attentively with a clipboard, taking notes to ensure compliance with safety protocols. Maintain a professional, well-lit setting with clear focus on safety elements, such as protective guards and proper handling techniques."
+    },
+    {
+        "promptCode": "M2L3P5",
+        "prompt": "Create a video sequence that begins with a staff member promptly cleaning up a spill using appropriate tools, such as a mop and wet floor signage. Follow this with a shot of two employees demonstrating safe lifting techniques\u2014bending their knees and keeping their backs straight\u2014while moving a heavy object. Ensure the setting includes clear and obstacle-free hallways, visually emphasizing a well-maintained environment aimed at preventing workplace accidents. Use smooth camera movements and clear framing to highlight these safety practices in action."
+    },
+    {
+        "promptCode": "M2L3P6",
+        "prompt": "Create a scene where a hotel employee attentively listens to a guest reporting a faulty electrical outlet in their room. The employee should appear professional and empathetic, holding a notepad or tablet to document the issue. In the background, include visuals of proper emergency and safety measures: a clearly visible fire exit sign, a well-lit and well-maintained hallway, and neatly arranged fire extinguishers. Ensure the environment reflects the hotel\u2019s high standards of safety and preparedness, with smooth transitions to reinforce the importance of guest service and safety compliance."
+    },
+    {
+        "promptCode": "M2L3P7",
+        "prompt": "Create a video scene showing hotel employees responsibly handling cleaning supplies, focusing intently on their tasks. Start with a close-up of one employee carefully measuring and using cleaning agents, followed by another employee organizing supplies efficiently. Then, shift to a moment where one employee notices a colleague engaging in playful behavior in the workspace and gently intervenes, signaling with a friendly yet professional gesture to maintain focus. The setting should feel realistic, with a clean and organized hotel service area in the background, reinforcing professionalism and safety. Ensure the interactions appear natural, promoting a positive work environment."
+    },
+    {
+        "promptCode": "M2L3P8",
+        "prompt": "Create a video sequence showing a hotel staff member thoroughly sanitizing a countertop using appropriate cleaning supplies and techniques, ensuring every surface is properly disinfected. Transition to the same staff member participating in a wellness activity, such as stretching exercises or mindfulness breathing, alongside colleagues in a designated break area. Highlight both scenes to emphasize the importance of maintaining health and cleanliness, both in work tasks and personal well-being. The setting should feel inviting, with clear attention to cleanliness and a positive, supportive atmosphere among staff."
+    },
+    {
+        "promptCode": "M2L3P9",
+        "prompt": "Create a scene of hotel staff seated attentively in a well-organized training room, participating in a safety training session. Show a supervisor standing at the front, using a pointer to highlight key elements on a large chart labeled \"Safety Code 2020.\" Focus on the attentive expressions of the staff, the supervisor\u2019s clear gestures, and the chart\u2019s details to emphasize compliance and awareness. Ensure the environment feels professional, with subtle elements like notepads or safety manuals on the tables, reinforcing the importance of safety rules and responsibilities. Use smooth camera movements to capture both wide and close-up angles for clarity and engagement."
+    },
+    {
+        "promptCode": "M2L3P10",
+        "prompt": "Create a video sequence featuring hotel employees actively contributing to a safe and healthy work environment. Start with employees wearing appropriate safety gear, such as gloves, masks, and non-slip shoes. Transition to a scene where an employee reports a hazard to a supervisor, using a walkie-talkie or hazard report form. Conclude with a training session, showing staff gathered around a trainer, engaging with safety guidelines and participating in a demonstration. Ensure the setting reflects a clean, professional workspace, with clear visuals of safety signage and training materials to reinforce the importance of these practices."
+    },
+    {
+        "promptCode": "M2L4P1",
+        "prompt": "Create a video sequence starting with a hospitality worker sitting at a desk, carefully filling out an accident report form with clear focus on the form\u2019s details (e.g., incident description, time, and location). Transition to a scene where an investigator, wearing a badge or uniform, examines the accident site closely. Show the investigator taking notes, capturing photos, or marking areas of concern with caution tape. Ensure the setting reflects a real-world hospitality environment, such as a hotel lobby, with appropriate lighting and subtle background elements to enhance realism."
+    },
+    {
+        "promptCode": "M2L4P2",
+        "prompt": "Create a video sequence where a concerned hotel employee, holding a bandaged hand, approaches a safety officer seated at a desk. The safety officer listens attentively and takes detailed notes on a clipboard, emphasizing the importance of timely incident reporting. The setting should be a neat office or back-of-house area, with safety posters visible on the walls. Use close-up shots of the bandaged hand, the clipboard with notes being taken, and the employee\u2019s concerned expression to convey the seriousness of workplace safety and prompt reporting."
+    },
+    {
+        "promptCode": "M2L4P3",
+        "prompt": "Create a video sequence showing a hotel manager seated at a desk, carefully filling out an accident register. Include close-up shots of the manager writing detailed information, such as the date, time, nature of the incident, and corrective actions taken. Emphasize the importance of accuracy by zooming in on critical fields being filled correctly. In the background, include subtle elements like a clock on the wall and a neat office setting to convey professionalism. The scene should conclude with the manager reviewing the completed form and filing it securely, highlighting the importance of thorough and accurate record-keeping."
+    },
+    {
+        "promptCode": "M2L4P4",
+        "prompt": "Create a video sequence featuring a hotel manager in a professional office setting, making a phone call to report an accident to the relevant authorities and the insurance company. Show close-up shots of the manager speaking on the phone, referencing notes or a report. Transition to a scene where forms and documents for the compensation process are being filled out, with the manager carefully reviewing details and signing paperwork. Include subtle background elements, such as a computer screen displaying an incident report and a desk with organized files, to convey professionalism and thoroughness."
+    },
+    {
+        "promptCode": "M2L4P5",
+        "prompt": "Create a video sequence featuring a hotel manager and a safety officer reviewing a spill incident near a wet floor sign. Start with the manager and safety officer inspecting the area, holding a clipboard and taking notes. A staff member stands nearby, actively demonstrating how the spill occurred, using clear gestures to explain the situation. Ensure the wet floor sign is prominently visible, emphasizing hazard awareness. The setting should be a well-lit hotel hallway or lobby, with natural interactions between the participants to highlight teamwork and attention to safety protocols."
+    },
+    {
+        "promptCode": "M2L4P6",
+        "prompt": "Create a video sequence showing a hotel employee responding to an accident area. Begin with the employee retrieving and placing bright yellow caution signs around the affected zone. Show them carefully setting up barriers or temporary tape to close off the section, ensuring the area is inaccessible to guests and other staff. Include close-up shots of the signs and barriers to emphasize safety protocols. The backdrop should reflect a busy hotel environment, such as a corridor or lobby, with clear attention to detail on the employee\u2019s professionalism and focus on guest safety."
+    },
+    {
+        "promptCode": "M2L4P7",
+        "prompt": "Create a video sequence where a hotel safety officer interviews a staff member beside a spill in a corridor. The scene should show the officer taking notes on a clipboard while the staff member explains the situation. In the background, another team member reviews CCTV footage on a laptop, focusing on the incident. Close-ups should capture the inspection of a properly placed wet floor sign and nearby cleaning equipment. The corridor setting should be well-lit, with the environment reflecting a professional tone, emphasizing the hotel's commitment to safety protocols and incident management."
+    },
+    {
+        "promptCode": "M2L4P8",
+        "prompt": "Create a video sequence highlighting multiple potential causes of accidents in a hotel setting. Begin with a maintenance worker closely inspecting a broken wheel on a cleaning cart, positioned near a dimly lit corridor. Use a zoom-in shot to emphasize the faulty wheel and the low lighting. Transition to a second scene where a staff member walks through a hallway, slipping on a wet floor that lacks a visible warning sign. Ensure the environment feels realistic, with subtle background elements like dim lighting and misplaced equipment to underline the importance of proactive safety measures."
+    },
+    {
+        "promptCode": "M2L4P9",
+        "prompt": "Create a video sequence starting with a hotel staff meeting in a breakroom, where the manager presents safety instructions using a whiteboard, engaging the team with clear visuals and discussion. Transition to a scene of maintenance personnel repairing faulty equipment, focusing on their careful handling of tools. Next, show new safety signs being installed in hallways, emphasizing attention to detail. Conclude with a corridor scene where brighter lights are switched on, illuminating the space and enhancing visibility. Ensure smooth transitions between scenes, with a professional tone that highlights the hotel's commitment to safety improvements."
+    },
+    {
+        "promptCode": "M2L4P10",
+        "prompt": "Create a video starting with a hotel engineer quickly turning off a malfunctioning kitchen appliance, showing close-up details of the control switch and concerned expression. Transition smoothly to a scene of a safety officer inspecting fire extinguishers along a corridor wall, briefly checking the pressure gauge and tag. Conclude with a short shot of housekeeping staff in uniform, gathered in a well-lit hotel conference room, attentively listening to a safety briefing. Ensure the lighting and transitions are clear and professional, emphasizing proactive safety measures throughout."
+    },
+    {
+        "promptCode": "M2L4P11",
+        "prompt": "Create a video sequence showing a concerned hotel manager and a staff member attentively speaking with a guest seated in the hotel lobby, holding an ice pack to their injured ankle. Ensure the manager and staff member display empathy and professionalism in their body language and expressions. In the background, another staff member is seen discreetly documenting the incident on a tablet, capturing relevant details. Set the scene in a comfortable, well-lit lobby with soft background activity, ensuring the interaction feels natural and focused on guest care and incident management."
+    },
+    {
+        "promptCode": "M2L4P12",
+        "prompt": "Create a video sequence showing a hotel manager seated at a desk, carefully reviewing insurance documents. Include close-up shots of the documents to emphasize policy details being checked. In the background, subtly show employees attending to guests\u2014such as a front desk attendant checking in a guest and a bellhop assisting with luggage\u2014creating a sense of an active, well-managed hotel environment. Maintain a professional, well-lit setting with the manager focused on paperwork, symbolizing the importance of risk management and operational security."
+    },
+    {
+        "promptCode": "M2L4P13",
+        "prompt": "Create a video sequence set in a hotel meeting room, showing a hotel manager reviewing safety reports with staff members seated around a conference table. Begin with close-up shots of the manager attentively examining safety documents and charts. Transition to a bellhop standing confidently, reporting a recent near-miss incident to the group. Capture the team\u2019s positive reactions with subtle nods and supportive gestures, emphasizing collaboration. Conclude with the group engaging in discussion, using gestures like pointing at reports or taking notes, reinforcing the atmosphere of teamwork and continuous safety improvement. Ensure the setting reflects a professional environment, with elements like notebooks, a projector, and coffee cups to enhance realism."
+    },
+    {
+        "promptCode": "M2L4P14",
+        "prompt": "Create a video sequence beginning with a hotel staff member at the front desk, carefully filling out an accident report form, with close-up shots of the document and their focused expression. Transition to a brief scene where a manager thoroughly inspects the area where the incident occurred, taking notes and checking for hazards. Conclude with staff members gathering in a hotel meeting room for a safety briefing, seated attentively around a table as a supervisor discusses protocols, with safety posters or guidelines visible on a whiteboard or projector screen to emphasize the importance of the session. Ensure smooth transitions between scenes to maintain a professional and cohesive narrative."
+    },
+    {
+        "promptCode": "M2L5P1",
+        "prompt": "Create a video sequence set in a spotless hotel kitchen, with staff wearing full safety gear, including aprons, gloves, hairnets, and non-slip shoes. Begin with chefs preparing food hygienically on sanitized surfaces, following proper handwashing techniques. Focus on close-ups of labeled temperature control equipment, such as thermometers in refrigerators or hot food displays. Include scenes showing proper waste management, with color-coded bins and clear signage for disposal. The transitions should emphasize cleanliness and organization, reinforcing best practices in food safety and hygiene throughout the kitchen."
+    },
+    {
+        "promptCode": "M2L5P2",
+        "prompt": "Create a video sequence showcasing a hotel kitchen staff practicing proper hygiene and food safety. Begin with staff members wearing hairnets, gloves, and clean uniforms as they prepare food. Highlight the spotless kitchen surfaces, with close-up shots of cutting boards and utensils being sanitized. Transition to a scene where ingredients are neatly organized and stored at correct temperatures inside a refrigerator, with labels and airtight containers visible. Ensure the lighting emphasizes the cleanliness and professionalism of the kitchen, reinforcing adherence to safety standards."
+    },
+    {
+        "promptCode": "M2L5P3",
+        "prompt": "Create a hotel kitchen scene with chefs actively preparing dishes, focusing on the dynamic environment with flames, steam, and sizzling pans. Midway through, show a quick cut to a controlled fire on a stovetop. Demonstrate a staff member swiftly using a fire extinguisher to put out the flame, following proper safety protocols. Conclude with a smooth camera pan across the kitchen, highlighting unobstructed emergency exits, clear pathways, and safety signage, reinforcing the kitchen\u2019s commitment to emergency preparedness. Ensure the lighting and ambiance reflect the busy but organized nature of a high-end kitchen."
+    },
+    {
+        "promptCode": "M2L5P4",
+        "prompt": "Create a video sequence set in a hotel kitchen, beginning with a focus on recycling bins clearly labeled for different types of waste (e.g., food, plastic, and paper). Follow with a scene where staff demonstrate water-efficient practices, such as washing vegetables in basins instead of running taps, and using minimal water for cleaning tasks. Ensure the video captures the smooth workflow in the kitchen, emphasizing sustainability through practical actions, with clear visuals of both the appliances and staff behaviors promoting resource conservation."
+    },
+    {
+        "promptCode": "M2L5P5",
+        "prompt": "Create a video sequence set in a partially completed hotel kitchen, focusing on construction workers in full safety gear, including helmets, gloves, and reflective vests. Show workers assembling kitchen fixtures such as stainless steel countertops and appliances. Ensure the pathways for staff movement are clearly marked with temporary signage or floor tape. Capture the construction environment with attention to detail, highlighting both the ongoing progress and the organization of the workspace to ensure safety and efficiency during the installation process."
+    },
+    {
+        "promptCode": "M2L5P6",
+        "prompt": "Create a video sequence showcasing hotel kitchen staff maintaining hygiene and safety standards. Begin with staff members thoroughly wiping down countertops and sanitizing kitchen equipment. Next, show waste being disposed of correctly in a designated bin, emphasizing separation of recyclable and non-recyclable waste. Conclude with a quick glimpse of a pest control inspection in progress, with an inspector checking traps or monitoring areas discreetly. Ensure the setting reflects a well-organized, professional kitchen environment, with clear attention to cleanliness and compliance."
+    },
+    {
+        "promptCode": "M2L5P7",
+        "prompt": "Create a video sequence beginning with a kitchen layout that highlights separate, clearly labeled areas for raw and cooked food. In the next scene, transition to a hygiene training session, where a staff member attentively listens to a trainer explaining food safety practices. Include visuals of training materials, such as posters or slides, and the staff member taking notes or asking questions, emphasizing active learning. Ensure both scenes reflect a clean, professional environment, reinforcing the importance of hygiene and food safety."
+    },
+    {
+        "promptCode": "M2L5P8",
+        "prompt": "Create a video sequence set in a hotel kitchen, focusing on safety and order. Begin with a close-up of a chef carefully using a knife to chop vegetables with precise technique. Transition to a cook adjusting stove settings, ensuring the flames are controlled and safe. Conclude with a brief shot of a cleaner mopping the non-slip kitchen floor, ensuring a safe, clean environment. Capture the kitchen\u2019s organized setup, with staff moving efficiently, wearing appropriate uniforms and safety gear, to emphasize professionalism and adherence to safety protocols."
+    },
+    {
+        "promptCode": "M2L5P9",
+        "prompt": "Create a video sequence set in a hotel kitchen, starting with a kitchen worker noticing an unsafe condition, such as a wet floor or faulty equipment. The worker approaches the manager and reports the issue verbally or through a quick form submission on a tablet. Transition to a scene where the entire kitchen staff is gathered for a safety meeting, with the manager leading a discussion on workplace safety protocols. Include visuals of the team listening attentively, taking notes, and interacting to show engagement. Ensure the setting reflects an active, professional kitchen environment throughout the scenes."
+    },
+    {
+        "promptCode": "M2L6P1",
+        "prompt": "Create a video showcasing a hotel lobby with clear, visible signage indicating both smoking and non-smoking areas. Start with a wide shot of the lobby, focusing on signs that clearly separate the two zones. Transition to a view of the designated smoking area, emphasizing that it is enclosed, well-ventilated, and situated away from non-smoking zones and guest pathways. Include subtle details, like air purifiers or ventilation systems in the smoking area, to highlight guest comfort. Ensure smooth transitions between scenes, reinforcing the hotel's commitment to accommodating different preferences while maintaining a respectful environment for all guests."
+    },
+    {
+        "promptCode": "M2L6P2",
+        "prompt": "Create a video sequence set in a hotel lobby, showcasing the enforcement of smoking regulations. Begin with a wide shot of the elegant lobby, ensuring \"No Smoking\" signs are clearly visible at key locations, such as near seating areas and the front desk. Transition to staff members discreetly monitoring the area, observing guest activity to ensure compliance. Include a scene where an employee politely reminds a guest about the no-smoking policy, demonstrating courteous enforcement. The video should maintain a professional, welcoming tone, with smooth transitions between scenes to highlight the hotel's commitment to a smoke-free environment."
+    },
+    {
+        "promptCode": "M2L6P3",
+        "prompt": "Create a video sequence set in a hotel reception area, focusing on health compliance. Start with a wide shot of the entrance, where a prominent \"No Tobacco Sales\" sign is displayed near the doorway. Transition to the reception desk, where health warning signs about smoking are clearly visible on the counter and walls. Ensure the signs are legible, with text and symbols that emphasize the hotel\u2019s commitment to a smoke-free environment. Include subtle movements in the background, such as guests checking in and staff assisting, to maintain a lively yet professional ambiance."
+    },
+    {
+        "promptCode": "M2L6P4",
+        "prompt": "Create a video sequence showing a hotel staff member professionally explaining the smoking policies to a guest during the check-in process at the front desk. Capture the interaction with warm, courteous body language, and a clear focus on communication, using visual aids like a printed policy or a tablet screen. Transition to a scene where the staff member places no-smoking signs in key areas, such as guestroom doors and common areas. Ensure the setting is bright and welcoming, with attention to detail, like the placement of signs in visible locations, reinforcing the hotel\u2019s commitment to a smoke-free environment."
+    },
+    {
+        "promptCode": "M2L6P5",
+        "prompt": "Create a video sequence beginning with a hotel lobby in Mumbai, where clear no-smoking signs are prominently displayed at entrances and seating areas. Show staff politely reminding a guest of the policy and ensuring compliance. Transition to a similar scene in a hotel in Delhi, where staff are seen collaborating with local authorities conducting routine inspections to monitor smoking regulations. Include shots of authority figures reviewing compliance checklists and signage, with smooth transitions to highlight the consistent enforcement of smoking laws across both cities. Ensure the setting reflects the distinct ambiance of each location, capturing Mumbai's vibrant energy and Delhi's official atmosphere."
+    },
+    {
+        "promptCode": "M2L6P6",
+        "prompt": "Create a video sequence showcasing how hotels balance the needs of both smoking and non-smoking guests. Begin with a view of a comfortable, designated outdoor smoking area featuring clear, visible signage and comfortable seating. Transition to an interior scene inside a smoking room, emphasizing proper ventilation systems in action. Include subtle details, such as air vents and purifiers operating quietly, ensuring a pleasant environment. Capture the distinction between smoking and non-smoking spaces, highlighting guest comfort and the hotel\u2019s attention to well-maintained areas and compliance with regulations."
+    },
+    {
+        "promptCode": "M2L6P7",
+        "prompt": "Create a video sequence depicting a guest being fined for smoking in a non-smoking area. Begin with the guest caught smoking, followed by a hotel staff member politely informing them of the policy and issuing a fine. Transition to a scene where the hotel manager reviews compliance by inspecting no-smoking signage placed prominently in the area. Ensure the setting reflects a professional environment, with clear visibility of the no-smoking signs and respectful interaction between staff and the guest to highlight the importance of policy enforcement."
+    },
+    {
+        "promptCode": "M2L6P8",
+        "prompt": "Create a video scene set in a hotel with visible \"No Smoking\" signs displayed in common areas, such as the lobby and hallways. Show a well-marked, designated smoking zone outside or in a separate area, clearly identified with appropriate signage. The scene features a friendly hotel staff member politely interacting with guests, gesturing courteously as they guide them to the smoking area. Ensure the interaction feels warm and professional, emphasizing hospitality while maintaining compliance with the hotel's no-smoking policy. The backdrop should reflect a clean and inviting hotel atmosphere, with clear boundaries between smoking and non-smoking areas."
+    },
+    {
+        "promptCode": "M2L7P1",
+        "prompt": "Create a video scene featuring a hotel receptionist at the front desk, warmly explaining the hotel\u2019s safety policies to a guest. Include printed safety brochures displayed on the desk and a close-up of the receptionist demonstrating the hotel\u2019s mobile app, scrolling through key safety information. Ensure the interaction feels professional and engaging, with the guest actively listening and nodding in understanding. Use a modern, well-lit lobby setting, incorporating subtle details like visible safety posters or QR codes nearby, reinforcing the accessibility of safety information across multiple channels."
+    },
+    {
+        "promptCode": "M2L7P2",
+        "prompt": "Create a video sequence set inside a hotel room, focusing on clear communication of health and safety information. Start with a close-up of the guest directory placed on the desk or bedside table, opened to the safety section. Gradually pan out to reveal additional safety elements: an emergency exit map mounted on the back of the door and handwashing signs prominently displayed near the bathroom sink. Ensure the room is well-lit, clean, and inviting, with smooth transitions between each element to emphasize the hotel\u2019s commitment to guest safety and clear communication."
+    },
+    {
+        "promptCode": "M2L7P3",
+        "prompt": "Create a video sequence set inside a modern hotel room, focusing on a smart TV mounted on the wall. Begin with the TV displaying general health and safety information, such as hygiene protocols and evacuation procedures. Transition to an emergency alert notification appearing on the screen, simulating a real-time message (e.g., \"Emergency Exit: Follow the Evacuation Route\"). Ensure the room is well-lit and neatly arranged, with subtle reflections of the alert on nearby surfaces, emphasizing the integration of technology in guest safety. Include smooth zoom-ins and pans to highlight both the TV and key room features like the bed, desk, and emergency exit map."
+    },
+    {
+        "promptCode": "M2L7P4",
+        "prompt": "Create a video sequence showcasing important safety signage in a hotel. Begin with a shot of a fire safety sign displayed prominently in a corridor, featuring multilingual text (e.g., English, Hindi, and regional languages) to ensure accessibility. Then, transition to a clear sign at the front desk listing first aid procedures and emergency contact information. Ensure both signs are well-lit and easy to read, with the hotel environment looking professional and welcoming. Add subtle camera movement to emphasize clarity, with a brief focus on guests and staff passing by to suggest active awareness of safety protocols."
+    },
+    {
+        "promptCode": "M2L7P5",
+        "prompt": "Create a video showcasing key health and safety features in a hotel. Begin with a hand sanitization station positioned near the hotel entrance, with a guest using it upon arrival. Transition to a similar station near the dining area, highlighting guests and staff practicing hygiene. Move the focus to visible signage on proper waste disposal near a trash bin and food safety protocols displayed in the restaurant. Include subtle activity, such as staff following these protocols while serving or cleaning tables, to emphasize the hotel\u2019s commitment to hygiene and safety. Ensure the atmosphere feels welcoming and professional throughout."
+    },
+    {
+        "promptCode": "M2L7P6",
+        "prompt": "Create a video sequence showing hotel staff politely reminding guests of safety measures in different settings. Begin with a front desk staff member, smiling and gesturing toward safety signage displayed near the reception, while calmly reminding guests about mask use or hand sanitization. Transition to a scene in the restaurant, where a waiter courteously reminds guests of social distancing or health protocols before seating them, pointing to visible signage on the wall and table. Ensure the signage is presented in multiple languages, clearly legible, and integrated naturally within the scenes to reflect a welcoming yet safety-conscious environment."
+    },
+    {
+        "promptCode": "M2L7P7",
+        "prompt": "Create a video sequence showing a hotel staff member calmly and professionally guiding guests towards designated emergency exits during a fire drill. Start with an announcement over the public address system, followed by the staff member, wearing a uniform and safety vest, using clear hand signals and verbal instructions to direct guests. Capture the guests following calmly, with visible exit signs and evacuation route maps in the background. The scene should reflect an organized, well-lit environment, emphasizing composure and safety, with special attention to the staff's reassuring demeanor and the smooth flow of the evacuation process."
+    },
+    {
+        "promptCode": "M2L7P8",
+        "prompt": "Create a video showcasing a restaurant that prioritizes hygiene and compliance. Begin with a close-up shot of the FSSAI certification prominently displayed near the entrance. Transition to an open kitchen scene, highlighting visible hygiene signs, such as \"Wash Hands Before Work\" and \"Sanitize Surfaces Regularly.\" Conclude with a shot of the restaurant entrance, focusing on a well-maintained hand sanitization station, with a guest or staff member using it. Ensure smooth camera movements to emphasize cleanliness and compliance, and incorporate warm, welcoming lighting to reflect the restaurant's professional ambiance."
+    },
+    {
+        "promptCode": "M2L7P9",
+        "prompt": "Create a video scene set in a hotel lobby, showcasing key health and safety features. Begin with a wide shot of the lobby, highlighting floor markers spaced for social distancing. Pan to the check-in desk, where a small sign informs guests about complimentary mask availability. Include a smooth transition to hand sanitizer stations strategically placed near the entrance and elevators, with a guest using one. Ensure the atmosphere is clean, welcoming, and professional, with lighting that emphasizes the lobby\u2019s design while focusing attention on the safety measures in place."
+    },
+    {
+        "promptCode": "M2L7P10",
+        "prompt": "Create a video showcasing a hotel mobile app interface. Begin by focusing on the user navigating through the app\u2019s menu to access the \"Health and Safety Information\" section, displaying relevant policies and guidelines. Then, transition to a push notification appearing at the top of the screen, alerting guests to a new safety update. Zoom in on the notification being tapped, leading to a detailed update page within the app. Ensure smooth transitions and a clean, modern UI design, with subtle animations that reflect a user-friendly, intuitive mobile experience."
+    },
+    {
+        "promptCode": "M2L7P11",
+        "prompt": "Create a video sequence showcasing a fire drill at a hotel. Begin with hotel staff calmly guiding guests through designated evacuation routes, pointing toward emergency exits with clear signage visible. Show staff using communication tools, like walkie-talkies, to coordinate the drill. Transition to a close-up of an event agenda displayed on a stand or in a brochure, highlighting a dedicated section on health and safety protocols. Ensure smooth transitions between scenes, emphasizing the professionalism of the staff and the importance of guest safety throughout the process."
+    },
+    {
+        "promptCode": "M2L7P12",
+        "prompt": "Create a video sequence beginning with a guest sitting comfortably in a hotel room, filling out a feedback form with a focus on health and safety. Capture details such as the guest writing thoughtfully and checking relevant options. Transition to a scene where a hotel manager is seen at a desk, typing a professional and courteous response to an online review. Ensure the computer screen displays a review mentioning health and safety, and the manager\u2019s response highlights the hotel\u2019s commitment to these standards. Use smooth transitions between scenes to convey seamless guest engagement and management attentiveness."
+    },
+    {
+        "promptCode": "M2L7P13",
+        "prompt": "Create a quick montage showcasing various methods of communication used to keep guests informed about safety policies. Start with a hotel staff member warmly interacting with a guest at the front desk, explaining safety protocols. Cut to clear safety signage positioned in a public area, such as near elevators or exits. Transition to a close-up of digital check-in screens displaying safety guidelines. Finish with a shot of feedback forms, both physical and digital, highlighting the importance of guest feedback in maintaining safety standards. Ensure smooth transitions with a consistent color palette and professional tone, reflecting the seamless integration of these communication methods."
+    },
+    {
+        "promptCode": "M2L8P1",
+        "prompt": "Create a video sequence showcasing a variety of safety signs used in a hotel environment. Begin with close-up shots of key signs such as 'No Smoking' (red circle with a slash), 'Fire Exit' (green with an arrow), and 'Caution: Wet Floor' (yellow triangle). Highlight each sign with its corresponding symbol, ensuring the color codes\u2014red for danger, green for safe zones, and yellow for caution\u2014are clearly visible. Use smooth transitions between signs, with a brief overlay showing where each might be placed within a hotel (e.g., 'Fire Exit' near staircases). Emphasize the role these signs play in maintaining a safe environment."
+    },
+    {
+        "promptCode": "M2L8P2",
+        "prompt": "Create a video sequence starting with a hotel corridor where guests are calmly walking, following green illuminated exit signs with directional arrows. Ensure the lighting is clear, emphasizing the signs and the orderly movement of guests. Transition smoothly to an outdoor scene where guests arrive at a designated assembly point, marked with clear signage. Frame the gathering within the hotel\u2019s lush gardens, showcasing a serene and organized environment. The video should convey a sense of calm and safety, highlighting both the emergency procedures and the hotel's attention to guest well-being."
+    },
+    {
+        "promptCode": "M2L8P3",
+        "prompt": "Create a video sequence highlighting the placement of prohibition signs in various hotel areas. Start with a \u201cNo Smoking\u201d sign prominently displayed near the lobby entrance, followed by a \u201cNo Entry\u201d sign on a staff-only door located in a corridor. Finish with a \u201cNo Photography\u201d sign positioned at the entrance of a private event area. Ensure each scene captures the sign clearly in context, with subtle background activity (such as guests checking in or staff walking by) to provide a realistic hotel environment. Keep transitions smooth and the tone professional, emphasizing the importance of clear signage for guest and staff compliance."
+    },
+    {
+        "promptCode": "M2L8P4",
+        "prompt": "Create a video showcasing blue safety signs with white symbols displayed in relevant hotel locations. Begin with a \"Wear Face Mask\" sign prominently placed at the kitchen entrance, followed by a shot of kitchen staff adhering to the guideline. Transition to a bathroom area, featuring a \"Wash Hands\" sign near the sink, with an employee following the protocol. Conclude with a \"Wear Protective Clothing\" sign positioned at a construction zone within the hotel, showing workers wearing appropriate safety gear. Ensure smooth transitions between scenes, with each environment clearly identifiable to emphasize the importance of specific safety practices across different areas."
+    },
+    {
+        "promptCode": "M2L8P5",
+        "prompt": "Create a hotel hallway scene that emphasizes emergency preparedness. Start by focusing on a wall-mounted first aid kit, accompanied by a green sign with a white cross. Pan across to the front desk, showing a phone with a nearby sign that combines a medical cross and a phone symbol, indicating emergency contact instructions. End the scene near the elevator, featuring a clearly marked AED station with a sign depicting a heart and electric shock symbol. Ensure the setting is clean and well-lit, with subtle hotel decor that complements the safety elements, reinforcing the importance of accessible emergency equipment."
+    },
+    {
+        "promptCode": "M2L8P6",
+        "prompt": "Create a video sequence highlighting safety precautions in different areas of a hotel. Begin with a yellow \"Caution: Wet Floor\" stand placed near the poolside, as a guest walks by cautiously, paying attention to the warning. Transition smoothly to a glimpse of an electrical panel room door, clearly marked with a small lightning bolt sign indicating electrical hazards. Conclude with a shot of a storage room containing neatly organized and labeled cleaning supplies, zooming in briefly on a chemical container with a visible biohazard warning. Ensure each scene emphasizes safety awareness through thoughtful framing and detail."
+    },
+    {
+        "promptCode": "M2L8P7",
+        "prompt": "Create a video showcasing a professional kitchen environment with clear attention to safety and compliance. Begin with a wide shot of the kitchen, focusing on a blue handwashing symbol prominently placed near a sink. Transition to a scene at the entrance, showing a \u201cNo Unauthorized Personnel\u201d sign clearly displayed to restrict access. Finally, zoom in on the food preparation area, where the FSSAI certification is visibly framed and mounted on the wall. Ensure the kitchen is well-lit and active, with chefs working in the background to emphasize both professionalism and adherence to standards."
+    },
+    {
+        "promptCode": "M2L8P8",
+        "prompt": "Create a video scene set in a well-appointed hotel bathroom. Begin with a close-up of a water conservation sign positioned neatly near the sink, encouraging guests to save water. Shift the focus to an energy-saving sign placed beside the light switch, promoting energy-efficient practices. Conclude with a wide shot of the bathroom corner, showing clearly labeled recycling bins for separating recyclable and non-recyclable waste. Ensure the setting feels modern and inviting, with soft lighting that enhances the message of sustainable hospitality."
+    },
+    {
+        "promptCode": "M2L8P9",
+        "prompt": "Create a video sequence starting in a hotel lobby, focusing on a clear \"No Smoking\" sign positioned near the entrance. Smoothly transition to an outdoor scene, following the direction of a green \"Smoking Area\" sign featuring a cigarette symbol. Show the sign pointing towards a well-marked, designated smoking zone with seating, ashtrays, and greenery in the background. Maintain a clean, professional aesthetic throughout, ensuring both signs are clearly visible to emphasize the hotel\u2019s compliance with smoking regulations."
+    },
+    {
+        "promptCode": "M2L8P10",
+        "prompt": "Create a video sequence starting with a close-up shot of an elevator door in a hotel lobby, clearly displaying a blue capacity sign. Transition smoothly to an escalator scene, where guests are seen holding the handrail, with a visible safety reminder placed near the escalator. End with a focused shot of a red fire-warning sign on the elevator door, followed by a wide-angle view revealing a nearby staircase, emphasizing the importance of alternative exit routes. Ensure the lighting is clean and professional, with all signs easily readable to highlight safety messaging."
+    },
+    {
+        "promptCode": "M2L8P11",
+        "prompt": "Create a video scene showing a hotel staff member carefully placing a \u201cCaution: Wet Floor\u201d sign in a hallway. In the background, include a variety of other safety signs, such as a visible \u201cNo Smoking\u201d sign on the wall and an \u201cEmergency Exit\u201d sign above a nearby door. The staff member should wear appropriate attire, such as a uniform with safety gloves, and ensure the sign is properly positioned. Use smooth camera movement to capture the setting, focusing on both the action and the surrounding signs to highlight the hotel's commitment to safety protocols."
+    },
+    {
+        "promptCode": "M2L8P12",
+        "prompt": "Create a video sequence showcasing various hotel safety signs strategically placed throughout the property. Begin with an 'Exit' sign illuminated above a doorway, followed by a close-up of fire extinguisher signage near an accessible extinguisher. Next, feature a 'Caution: Wet Floor' sign positioned in a hallway. Use animated arrows to guide viewers through safe paths, highlighting clear navigation routes for guests and staff. Include shots of these signs in hallways, stairwells, and guest areas, demonstrating their visibility and proper placement to ensure smooth movement and preparedness during emergencies. Ensure smooth camera transitions to maintain clarity and flow."
+    },
+    {
+        "promptCode": "M2L9P1",
+        "prompt": "Create a video sequence starting with a hotel fire alarm activating, accompanied by flashing lights and an audible alarm sound. Transition to scenes of a calm, well-organized evacuation, showing guests and staff moving swiftly but orderly toward clearly marked exits. Feature hotel staff guiding guests with reassuring gestures and directions. Highlight 'Exit' signs illuminated above doors and 'Assembly Point' signage at the designated safe area outside. Ensure the visuals emphasize the seamless coordination between staff and guests, underscoring the importance of clear signage and staff preparedness during emergencies."
+    },
+    {
+        "promptCode": "M2L9P2",
+        "prompt": "Create a video showing a hotel staff member performing a safety check on a fire extinguisher. Begin with a close-up of the staff member inspecting the pressure gauge and ensuring the tag is up to date. Pull back to reveal the extinguisher mounted on a wall next to a clearly marked emergency exit sign. Ensure the setting is well-lit, with the emergency exit sign prominently visible to highlight safety compliance. The staff member should wear appropriate uniform and safety gear, such as gloves, to emphasize professionalism and attention to detail."
+    },
+    {
+        "promptCode": "M2L9P3",
+        "prompt": "Create a video segment focusing on an evacuation map prominently displayed on a hotel wall near an emergency exit. Start with a close-up of the map, highlighting clear evacuation routes with arrows leading to designated assembly points. Gradually zoom out to reveal the surrounding area, including the emergency exit door with proper signage. Incorporate subtle movement, such as a guest or staff member briefly glancing at the map, reinforcing its accessibility and importance. Ensure the lighting is adequate to make both the map and exit clearly visible, emphasizing preparedness and safety."
+    },
+    {
+        "promptCode": "M2L9P4",
+        "prompt": "Create a video scene showing a hotel staff member calmly guiding guests down a well-lit staircase during an evacuation. Ensure the staff member is using clear hand gestures and maintaining a composed demeanor to reassure guests. As they reach the exit, transition the shot to an outdoor area where a visible \"Assembly Point\" sign is prominently displayed. Include subtle background elements like other guests gathering safely and staff assisting to emphasize organization and safety protocols. The overall tone should convey calmness and professionalism."
+    },
+    {
+        "promptCode": "M2L9P5",
+        "prompt": "Create a video sequence depicting a hotel fire drill in progress. Begin with the fire alarm sounding, followed by staff and guests calmly exiting their rooms and common areas. Show them walking in an orderly manner toward a clearly marked \"Fire Exit,\" with visible directional signage. Include shots of employees assisting guests and ensuring no one is left behind. Transition to an outdoor assembly point, where staff conduct a headcount using a checklist. The setting should reflect a calm but focused atmosphere, with special attention to safety protocols such as keeping fire doors unobstructed and ensuring clear signage visibility throughout the drill."
+    },
+    {
+        "promptCode": "M2L9P6",
+        "prompt": "Create a video sequence depicting a fire drill in a hotel setting. Begin with hotel staff guiding guests calmly toward a clearly marked fire exit, emphasizing orderly movement without panic. Show safety officers strategically positioned along the route, attentively observing the process and making notes on a clipboard. Include visuals of emergency lights and exit signage to highlight preparedness. Conclude with everyone gathering at a designated assembly point, where a safety officer provides feedback and acknowledges participation. Ensure smooth transitions and a professional tone, reinforcing the importance of safety protocols."
+    },
+    {
+        "promptCode": "M2L9P7",
+        "prompt": "Create a video sequence depicting hotel staff actively participating in a safety training session. Start with a group of employees attentively listening to a trainer in a meeting room, with safety posters and equipment on display. Transition to a hands-on segment where some employees practice using firefighting equipment, such as fire extinguishers and fire blankets. Follow with a scene focusing on another group learning first aid techniques, including CPR practice on a training dummy. Ensure the setting reflects a well-organized training environment, with staff engaged and trainers providing clear instructions, emphasizing preparedness and teamwork."
+    },
+    {
+        "promptCode": "M2L9P8",
+        "prompt": "Create a video sequence depicting hotel staff assisting guests during an evacuation. Begin with a staff member calmly guiding a guest in a wheelchair toward the nearest exit, ensuring smooth and careful navigation. In parallel, show another staff member speaking clearly to a small group of guests, providing instructions on the evacuation process. Use a well-lit corridor or lobby with visible exit signs and emergency lighting for the setting. The staff\u2019s demeanor should reflect professionalism and composure, emphasizing guest safety and communication. Ensure the sequence captures the urgency of the situation while maintaining a sense of control and order."
+    },
+    {
+        "promptCode": "M2L9P9",
+        "prompt": "Create a video sequence featuring a hotel staff member standing at a public address system in the lobby, speaking calmly to convey a safety announcement. Show a diverse group of guests in the lobby, some relaxing and others moving through the space. As the announcement plays, guests receive corresponding safety notifications on their smartphones. Include close-up shots of the phone screens displaying the alert and wider angles capturing the lobby\u2019s environment, ensuring visible emergency signage. The scene should feel organized and professional, emphasizing clear communication and the seamless delivery of safety information to guests."
+    },
+    {
+        "promptCode": "M2L9P10",
+        "prompt": "Create a video sequence showcasing hotel staff performing essential fire safety procedures. Begin with a fire drill scene, showing employees calmly guiding guests toward designated emergency exits, following marked escape routes. Include staff members checking fire extinguishers and ensuring they are operational. Capture communication among staff through walkie-talkies, coordinating the evacuation process efficiently. Conclude with a brief scene of a post-drill meeting, where the team gathers in a conference room to review the procedures, discussing what went well and noting areas for improvement on a whiteboard or notebook. The visuals should emphasize professionalism, teamwork, and preparedness in an organized hotel environment."
+    },
+    {
+        "promptCode": "M3L1P1",
+        "prompt": "Create a video sequence starting with a clear display of the FSSAI logo to establish the focus on food safety standards. Transition to a well-organized hotel kitchen where chefs are seen diligently following safety procedures in line with FSSAI guidelines. Show chefs wearing proper attire, including gloves, aprons, and hairnets, as they handle and prepare food on sanitized surfaces. Capture moments of careful food handling, such as checking ingredient freshness, temperature control, and organized storage practices. The scene should convey a clean, professional kitchen environment where food safety is prioritized, highlighting compliance with FSSAI standards."
+    },
+    {
+        "promptCode": "M3L1P2",
+        "prompt": "Create a video sequence displaying various food items, starting with dairy products, followed by cereals, and then packaged foods, arranged neatly on a table. As each category appears, overlay a certification symbol that represents food safety and quality standards, such as a seal or checkmark, to signify compliance. The setting should be clean and well-lit, with a close-up focus on the items to emphasize their freshness and adherence to safety standards. End with a zoom-out showing all items together, reinforcing a commitment to quality and safety."
+    },
+    {
+        "promptCode": "M3L1P3",
+        "prompt": "Create a video sequence set in a hotel kitchen, highlighting strict adherence to food safety and hygiene practices. Start with kitchen staff wearing gloves, hairnets, and clean uniforms, carefully preparing food at sanitized workstations. Show staff members washing fresh produce under clean running water and handling ingredients with care. Include scenes of clearly labeled food storage areas, with refrigerated items organized on designated shelves. Focus on details such as staff changing gloves between tasks and checking storage labels, reinforcing a commitment to high hygiene standards and organized kitchen practices."
+    },
+    {
+        "promptCode": "M3L1P4",
+        "prompt": "Create a video sequence showing an FSSAI officer conducting a thorough inspection in a hotel kitchen. Begin with the officer examining food storage areas, checking for proper labeling, temperature control, and cleanliness, while the hotel kitchen staff watch attentively in the background. Include shots of the officer assessing surfaces, utensils, and hygiene practices. A detailed checklist should be clearly visible on a clipboard or screen in the background, highlighting the specific items being reviewed. The setting should convey a clean, professional kitchen environment, with staff demonstrating attentive and compliant behavior."
+    },
+    {
+        "promptCode": "M3L1P5",
+        "prompt": "Create a video sequence focusing on a packaged food item placed on a store shelf. Begin with a wide shot of the shelf, then zoom in for close-up views that highlight specific details on the packaging. Show the list of ingredients clearly, followed by a view of the expiration date, ensuring it is legible. Conclude with a close-up of the FSSAI logo, emphasizing its presence on the package. The video should maintain a steady, clean focus on each label element, underscoring the importance of transparency and regulatory compliance in food packaging."
+    },
+    {
+        "promptCode": "M3L1P6",
+        "prompt": "Create a video sequence set in a hotel kitchen, where food handlers are attentively participating in a safety training session led by a supervisor. Show a few close-ups of posters on the walls that promote the Eat Right India campaign and encourage consumer awareness on reading food labels. The training should emphasize proper food handling techniques, with the trainer referencing key points on the posters. Capture moments of engagement, such as the food handlers taking notes or asking questions, to highlight their commitment to food safety and compliance with national standards."
+    },
+    {
+        "promptCode": "M3L1P7",
+        "prompt": "Create a video scene featuring a laboratory technician in a lab coat carefully testing food samples. The technician is focused on their task, using pipettes, beakers, or microscopes in a well-equipped lab setting. In the background, lab equipment like test tubes and storage cabinets are visible, along with FSSAI logos subtly placed on the walls or equipment to reinforce food safety standards. The scene should emphasize precision, cleanliness, and adherence to quality standards, capturing the essential role of testing in food safety compliance."
+    },
+    {
+        "promptCode": "M3L1P8",
+        "prompt": "Create a video sequence of a hotel event featuring a beautifully arranged buffet setup with various food stalls. Show FSSAI inspectors actively examining the food stalls, checking for compliance with food safety standards. Capture scenes where vendors present their food safety licenses to the inspectors, highlighting transparency and adherence to regulations. The atmosphere should be vibrant and professional, with clear visuals of the inspection process, showcasing a safe and well-regulated food service environment."
+    },
+    {
+        "promptCode": "M3L1P9",
+        "prompt": "Create a video sequence set in a hotel kitchen, starting with a close-up of a labeled container reading \u201cUsed Cooking Oil\u201d placed neatly near the cooking area. Transition to an exterior scene where a specialized truck arrives to collect the oil, indicating its purpose for biofuel production. Conclude with a scene in the hotel\u2019s restaurant, focusing on a menu that highlights healthier food options, with items like grilled vegetables and low-oil dishes. The visuals should clearly connect the kitchen\u2019s sustainable practices to environmentally conscious choices offered to guests."
+    },
+    {
+        "promptCode": "M3L1P10",
+        "prompt": "Create a video sequence that begins with an FSSAI inspector conducting a thorough check of a restaurant kitchen, examining key areas like storage, preparation surfaces, and hygiene practices. Transition to chefs actively following food safety protocols: labeling ingredients, wearing gloves, and using sanitized tools while preparing dishes. In the final scene, show a digital platform on a tablet or computer screen displaying up-to-date food safety tips and guidelines for the industry. Each segment should highlight clean, organized kitchen spaces and emphasize compliance with food safety standards."
+    },
+    {
+        "promptCode": "M3L2P1",
+        "prompt": "Create a video that begins with a historical timeline showcasing various old food laws, represented by old documents or brief text overlays. As the timeline progresses, these laws merge into the formation of the Food Safety and Standards Act, symbolized by a modern, unified document. Next, show the establishment of the FSSAI, with a visual of its logo or headquarters. The visuals should seamlessly transition to underscore the evolution of food safety standards."
+    },
+    {
+        "promptCode": "M3L2P2",
+        "prompt": "Create a video sequence set in a pristine hotel kitchen, where a chef is shown thoroughly washing hands at a sink labeled with a 'safe water' sign, emphasizing hygiene standards. Move to a close-up of sanitized cooking equipment neatly arranged, ready for use. In the background, include a subtle sign reading 'pest control in progress' to highlight proactive safety measures. Ensure each element appears clean and organized, with a focus on the professional practices that maintain a safe and sanitary kitchen environment."
+    },
+    {
+        "promptCode": "M3L2P3",
+        "prompt": "Create a video sequence set in a hotel kitchen, where clearly labeled areas for raw and cooked food are distinctly visible. Begin with a chef carefully separating raw and cooked ingredients on separate cutting boards, demonstrating safe food handling practices. Near the workstations, include a visible sign reading \u201cCross-Contamination Prevention,\u201d strategically placed to reinforce hygiene protocols. Emphasize a clean, orderly kitchen environment, with attention to detail on labeling and separation to highlight the importance of food safety compliance."
+    },
+    {
+        "promptCode": "M3L2P4",
+        "prompt": "Create a video showcasing a selection of packaged food items neatly arranged on a counter in a hotel\u2019s takeaway section. Each package should have clear labels prominently displaying the product name, a list of ingredients, the FSSAI registration number, and vegetarian or non-vegetarian symbols. Highlight the clarity and organization of the labels, focusing on their easy-to-read format. The setting should feel inviting and professional, with the counter area well-lit and organized to emphasize the attention to quality and compliance in food labeling."
+    },
+    {
+        "promptCode": "M3L2P5",
+        "prompt": "Create a video sequence featuring an FSSAI inspector in a hotel kitchen, meticulously collecting food samples for testing. Show the inspector referencing a checklist to ensure all protocols are followed, while kitchen staff observes attentively in the background. Capture close-up shots of the inspector\u2019s jacket displaying a clear \u201cFSSAI\u201d badge or logo, signifying authority. The kitchen setting should be clean and organized, with the process highlighted in a way that emphasizes both the inspector's thoroughness and the staff's commitment to compliance with food safety standards."
+    },
+    {
+        "promptCode": "M3L2P6",
+        "prompt": "Create a video sequence set in a hotel kitchen where the staff is gathered for a training session. Begin with an instructor holding a Food Safety Training and Certification (FoSTaC) manual, addressing the team on food safety practices. The instructor then demonstrates proper handwashing techniques at a designated sink, showing each step clearly. In the background, display a banner reading \"Food Safety Training and Certification (FoSTaC)\" to reinforce the training focus. The video should emphasize attentive engagement from the staff and clear, instructional guidance from the trainer."
+    },
+    {
+        "promptCode": "M3L2P7",
+        "prompt": "Create a video scene set in a hotel kitchen, where a chef carefully checks the temperature inside a refrigerator using a thermometer, ensuring it meets safety standards. The camera zooms in to capture the thermometer reading clearly. Nearby, display a food safety checklist on the wall or clipboard, showing steps like \u201cCheck Temperature,\u201d \u201cLabel Ingredients,\u201d and \u201cSanitize Surfaces.\u201d Emphasize a clean, organized kitchen environment, with attention to detail on the chef\u2019s actions to highlight the importance of food safety protocols."
+    },
+    {
+        "promptCode": "M3L2P8",
+        "prompt": "Create a video sequence featuring a hotel chef carefully inspecting food ingredients in a well-organized kitchen. Start with the chef examining fresh produce, meats, and packaged items, each labeled with trusted supplier names. The chef should hold a quality checklist clipboard, marking off items as they verify freshness and quality standards. Close-ups of the labels and checklist should be included to emphasize attention to sourcing and quality control. The setting should be clean and professional, showcasing the chef\u2019s diligence in ensuring top-quality ingredients for the hotel\u2019s dining service."
+    },
+    {
+        "promptCode": "M3L2P9",
+        "prompt": "Create a video sequence in a restaurant kitchen, emphasizing sustainable waste management practices. Start with a clear view of separate, well-labeled bins for biodegradable and non-biodegradable waste. Show a container designated for used cooking oil, which will be collected for recycling. In the next scene, focus on a chef responsibly disposing of waste, placing items into the correct bins and ensuring used oil is set aside for recycling. Each shot should highlight cleanliness and organization, reinforcing the kitchen\u2019s commitment to environmental responsibility."
+    },
+    {
+        "promptCode": "M3L2P10",
+        "prompt": "Create a video sequence that presents a checklist being marked off step-by-step as a hotel kitchen adheres to food safety regulations. Start with a focus on obtaining an FSSAI license, followed by scenes showing staff cleaning surfaces, carefully labeling food items, and organizing waste management systems. As each item on the checklist is completed, a checkmark appears beside it. Conclude with a green \"Compliance\" stamp filling the screen, reinforcing the importance of following food safety regulations to ensure a safe and hygienic environment. The overall tone should be clear and professional, highlighting each compliance step in detail."
+    },
+    {
+        "promptCode": "M3L3P1",
+        "prompt": "Create a video sequence set in a hotel kitchen, where various food safety hazards are identified. Begin by showing examples of improper cooking temperatures, with a thermometer indicating unsafe levels, and cross-contamination, such as raw and cooked foods placed too closely. Transition smoothly to a checklist titled \"HACCP Steps.\""
+    },
+    {
+        "promptCode": "M3L3P2",
+        "prompt": "Create a video sequence set in a hotel kitchen where staff actively check food safety steps. Begin with a chef inspecting refrigerated storage, ensuring items are correctly labeled and stored at the appropriate temperatures. Next, show a team member washing hands thoroughly at a designated hygiene station, followed by another staff member sanitizing preparation surfaces. End with a brief scene of a supervisor reviewing a food safety checklist to verify compliance with hygiene practices. The kitchen setting should be clean and organized, with close-ups that emphasize attention to detail and adherence to food safety protocols."
+    },
+    {
+        "promptCode": "M3L3P3",
+        "prompt": "Create a video sequence that identifies common kitchen hazards related to food safety. Start by showing raw meat improperly stored on a top shelf in a refrigerator, above ready-to-eat items, illustrating the risk of cross-contamination. Transition to a scene where cleaning agents are placed dangerously close to a food prep area, emphasizing the importance of proper storage to avoid chemical contamination. Finally, display a warning sign indicating potential physical hazards, such as glass or metal fragments, near a prep station. Each hazard should be clearly labeled, with a cautionary tone to educate viewers on the risks and preventive measures needed in a kitchen environment."
+    },
+    {
+        "promptCode": "M3L3P4",
+        "prompt": "Create a video sequence that begins with a close-up of a chef checking the internal temperature of cooked meat using a food thermometer, ensuring it reaches the safe level. Next, show a refrigerator stocked with perishable foods, with a visible thermometer indicating the correct storage temperature. Emphasize clear readings on the thermometers in both scenes to highlight adherence to safe cooking and storage practices. Ensure the visuals are crisp and professional, underscoring the importance of temperature control in food safety."
+    },
+    {
+        "promptCode": "M3L3P5",
+        "prompt": "Create a video scene showing a chef carefully inserting a food thermometer into a cooked chicken to check its internal temperature. Zoom in to clearly display the thermometer\u2019s reading as it reaches 75\u00b0C, ensuring that the temperature is easy to read on screen. Add clear labels beside the temperature display, such as \"Safe Cooking Temperature: 75\u00b0C\" to highlight food safety standards. The setting should be a clean, well-lit kitchen, and the action should be deliberate to emphasize the importance of accurately checking food temperatures for safety."
+    },
+    {
+        "promptCode": "M3L3P6",
+        "prompt": "Create a video scene showing a kitchen supervisor checking the temperature of a refrigerator with a digital or analog thermometer clearly visible, displaying a temperature below 5\u00b0C. The supervisor carefully records the temperature on a clipboard or digital log, verifying compliance with food safety standards. Ensure close-up shots of both the thermometer reading and the recording process, highlighting attention to detail and proper food storage practices in a professional kitchen setting."
+    },
+    {
+        "promptCode": "M3L3P7",
+        "prompt": "Create a video sequence that begins with a hotel kitchen supervisor conducting a food safety audit, inspecting storage areas, checking temperature logs, and reviewing food handling procedures. Transition to a scene where another staff member prepares a food sample, sealing it in a sterile container and labeling it for traceability. Show the sample being packaged and sent off for laboratory testing to ensure quality and safety. Emphasize the professionalism and precision in each step, underlining the kitchen\u2019s commitment to stringent safety standards. The setting should be clean, organized, and detail-oriented, highlighting the audit and testing processes."
+    },
+    {
+        "promptCode": "M3L3P8",
+        "prompt": "Create a video sequence focused on kitchen staff performing essential record-keeping for food safety. Begin with a close-up of a kitchen staff member carefully logging temperature readings on a chart, checking the thermometer, and accurately recording data. Then shift to another staff member organizing and filing documents within a structured record-keeping system, such as a labeled file cabinet or digital platform. Emphasize the importance of precision and organization in these tasks, with visuals that showcase a clean, efficient workspace dedicated to maintaining food safety compliance."
+    },
+    {
+        "promptCode": "M3L3P9",
+        "prompt": "Create a video sequence set in a hotel kitchen where chefs actively oversee critical food safety practices. Start with chefs monitoring food preparation steps at different stations, ensuring each process aligns with safety protocols. Capture close-ups of temperature readings as chefs use thermometers to verify cooking and storage temperatures. Show careful handling of ingredients, including proper washing and separation to prevent cross-contamination. The overall scene should highlight an organized, hygienic workspace and a team dedicated to following HACCP standards."
+    },
+    {
+        "promptCode": "M3L3P10",
+        "prompt": "Create a video sequence featuring a kitchen team gathered in a meeting room, with a supervisor leading a discussion on essential food safety steps. Begin with the supervisor pointing to a presentation or whiteboard that outlines key food safety practices. Transition to close-up shots of team members attentively taking notes and reviewing printed charts or guidelines on food safety. Emphasize the team\u2019s focus and engagement, capturing visuals of the materials they\u2019re studying and the attentive expressions of the staff, underscoring the importance of thorough training and understanding in maintaining kitchen safety standards."
+    },
+    {
+        "promptCode": "M3L3P11",
+        "prompt": "Create a video sequence featuring a satisfied guest enjoying their meal in a well-maintained restaurant setting. In the background, show kitchen staff adhering to strict hygiene protocols, including wearing gloves, hairnets, and clean aprons. Focus on the positive dining atmosphere, with subtle details emphasizing the staff\u2019s attention to food safety and hygiene practices, contributing to the guest's overall positive experience. The scene should convey a clean, welcoming environment where hygiene standards are visibly upheld."
+    },
+    {
+        "promptCode": "M3L3P12",
+        "prompt": "Create a video that starts in a restaurant kitchen, where a chef meticulously follows a HACCP (Hazard Analysis Critical Control Points) checklist. Show the chef actively monitoring food temperatures using a digital thermometer, recording results, and ensuring all surfaces and equipment are thoroughly clean and sanitized. Transition to the dining area, where a satisfied guest enjoys their meal. Overlay the scene with a \u201cSafe Food, Happy Guests\u201d sign to emphasize the positive impact of HACCP practices on food safety and guest satisfaction. The visuals should be clear, professional, and convey the importance of these safety standards in providing a high-quality dining experience."
+    },
+    {
+        "promptCode": "M3L4P1",
+        "prompt": "Create a video starting with a chef in a hotel kitchen carefully filling out a temperature log for food storage, noting the current temperatures of refrigerated and stored items. Transition to a close-up of a folder labeled \u201cFood Safety Records\u201d being placed neatly on a shelf, symbolizing the importance of organized documentation for food safety compliance. The visuals should be professional, highlighting meticulous record-keeping and adherence to safety protocols in the kitchen environment."
+    },
+    {
+        "promptCode": "M3L4P2",
+        "prompt": "Create a video scene set in a restaurant kitchen, where a chef is carefully reviewing a clipboard with detailed food safety records. Focus on the clipboard, showing clear, organized labels for temperature checks and designated spaces for staff signatures, emphasizing accountability. The chef checks off completed tasks and verifies recorded temperatures, with close-up shots of the clipboard to highlight each label and signature. The setting should be professional and clean, reflecting a commitment to food safety practices and meticulous record-keeping."
+    },
+    {
+        "promptCode": "M3L4P3",
+        "prompt": "Create a video sequence set at a hotel front desk, where a framed FSSAI license is prominently displayed on the wall, symbolizing compliance with food safety standards. Focus on a staff member seated at the computer, opening a digital file and carefully updating the FSSAI renewal information. Capture close-up shots of the computer screen displaying renewal details, and show the staff member reviewing the information for accuracy. The scene should feel professional and organized, emphasizing the hotel\u2019s commitment to maintaining up-to-date regulatory compliance."
+    },
+    {
+        "promptCode": "M3L4P4",
+        "prompt": "Create a video that begins with a hotel staff member standing beside a fresh produce delivery, carefully reviewing a logbook or digital tablet. Show close-ups of the screen or logbook with clearly visible fields for supplier information, FSSAI registration, batch numbers, and ingredient details, highlighting the thorough tracking of each item. Emphasize the staff member\u2019s focus and attention to detail as they cross-check the information with the delivery items. The setting should reflect a clean, organized receiving area, reinforcing the professionalism and commitment to food safety standards in hotel operations."
+    },
+    {
+        "promptCode": "M3L4P5",
+        "prompt": "Create a video scene that begins with a chef opening a refrigerator and carefully checking the internal temperature using a digital thermometer. Next, show the chef holding a clipboard with temperature logs that detail readings for refrigeration units, cooking stations, and buffet displays. The chef makes a quick note on the clipboard, updating the logs to reflect the most recent measurements. The setting should be a clean, organized kitchen, highlighting the chef\u2019s focus on maintaining optimal food safety standards through diligent temperature monitoring and record-keeping."
+    },
+    {
+        "promptCode": "M3L4P6",
+        "prompt": "Create a video sequence starting with a kitchen staff member thoroughly cleaning a food prep counter, ensuring every area is sanitized and spotless. Show the staff member then turning to a wall-mounted clipboard and marking off a completed task on a cleaning schedule. Nearby, capture a brief close-up of a pest control log displayed on the wall, emphasizing the kitchen's commitment to cleanliness and hygiene standards. The video should highlight attention to detail and the importance of structured cleaning protocols in maintaining a safe food preparation environment."
+    },
+    {
+        "promptCode": "M3L4P7",
+        "prompt": "Create a video that begins with a hotel kitchen manager carefully reviewing an audit report at a desk, flipping through pages that detail food safety and cleanliness standards. Transition to a scene where external inspectors conduct a thorough kitchen inspection, moving through various areas with clipboards in hand, checking storage, food preparation surfaces, and waste disposal practices. The inspectors take notes and communicate observations, emphasizing a detailed and systematic review process. The overall tone should be professional, capturing the importance of both internal and external audits in maintaining high standards of kitchen safety and compliance."
+    },
+    {
+        "promptCode": "M3L4P8",
+        "prompt": "Create a video sequence featuring a food safety training session for kitchen staff. Start with a trainer presenting key safety protocols using a digital presentation projected on a screen, covering essential topics like hygiene practices and hazard prevention. Show a close-up of a logbook on a nearby table, recording attendance and listing the topics covered during the session. Conclude with a view of a bulletin board displaying certificates of completion, signifying the team\u2019s dedication to food safety standards. The atmosphere should feel educational and professional, highlighting the commitment to maintaining a safe kitchen environment."
+    },
+    {
+        "promptCode": "M3L4P9",
+        "prompt": "Create a video sequence set in a kitchen lab, where food safety testing is underway. Begin with a close-up of food samples being examined under a microscope, highlighting meticulous testing practices. Pan to a recycling bin labeled \u201cUsed Cooking Oil,\u201d emphasizing responsible disposal practices. Each element should be shown clearly to reinforce the lab\u2019s commitment to safety and environmental responsibility in kitchen operations. The tone should be professional, highlighting both precision and sustainability."
+    },
+    {
+        "promptCode": "M3L4P10",
+        "prompt": "Create a video sequence that begins with a close-up of a restaurant menu, where allergen symbols are displayed next to each dish, clearly indicating potential allergens. Transition to a kitchen scene where a staff member holds a container with a prominent label identifying the ingredient and any allergen information. Conclude with a sign posted in the kitchen reminding staff to double-check allergen details before preparing each dish. The visuals should focus on clear labeling, attention to allergen information, and a professional kitchen environment that emphasizes safety for guests with allergies."
+    },
+    {
+        "promptCode": "M3L4P11",
+        "prompt": "Create a video showing kitchen staff actively separating waste in a restaurant kitchen. Begin with staff members disposing of waste into clearly labeled bins: one for biodegradable items (such as food scraps) and another for non-biodegradable items (like plastic wrappers). Emphasize the clear labeling and organization of the bins, with staff carefully placing each item in the correct bin. The background should show a clean, organized kitchen, reinforcing good waste management practices as an integral part of maintaining a sustainable and hygienic workspace."
+    },
+    {
+        "promptCode": "M3L4P12",
+        "prompt": "Create a video focusing on a kitchen supervisor identifying a temperature issue in a food storage area. Show the supervisor checking a thermometer, noticing that the temperature is outside the safe range, and then immediately filling out a corrective action form to document the issue. Capture close-up shots of the form as the supervisor notes details of the corrective steps planned or taken. Ensure the setting is a well-organized, professional kitchen environment, emphasizing the supervisor's quick response and commitment to maintaining food safety standards."
+    },
+    {
+        "promptCode": "M3L4P13",
+        "prompt": "Create a video sequence set in a hotel kitchen where a chef and team members collaboratively inspect a food safety logbook and storage areas. Start with close-up shots of the team reviewing the logbook, marking off completed tasks, and checking documented temperatures. Then, move to scenes showing clearly labeled food items and staff performing temperature checks on refrigerated storage units. Highlight the team ensuring that all surfaces are clean and organized. Emphasize the importance of systematic documentation and teamwork in maintaining food safety standards, showcasing an orderly and compliant kitchen environment."
+    },
+    {
+        "promptCode": "M3L5P1",
+        "prompt": "Create a video scene in a hotel dining area where staff members, wearing masks and gloves, are attentively serving food to guests. Highlight the visible hygiene and safety measures in place, including clear signage that promotes protocols like mask-wearing, hand sanitizing stations, and social distancing guidelines. Ensure the setting is bright and inviting, with subtle background details like table sanitizers and neatly organized service stations, emphasizing the hotel\u2019s commitment to guest safety and hygiene. The video should feel professional and reassuring, underlining the staff's dedication to health standards."
+    },
+    {
+        "promptCode": "M3L5P2",
+        "prompt": "Create a video scene showing hotel staff lined up at the entrance to the kitchen, each waiting to have their temperature checked before entering. A staff member uses a digital thermometer to scan each employee\u2019s forehead, confirming safe temperatures for entry. Keep the atmosphere professional and reassuring, highlighting the importance of health checks in daily operations."
+    },
+    {
+        "promptCode": "M3L5P3",
+        "prompt": "Create a video sequence set in a hotel kitchen, focusing on staff members wearing full protective gear, including masks, gloves, and hairnets. Begin with a close-up of a team member carefully washing their hands at a designated sink, following proper hand hygiene techniques. Pan out to show the rest of the kitchen staff working efficiently in their protective attire, handling food and equipment with care. The setting should emphasize cleanliness, safety, and compliance with hygiene standards, capturing the kitchen's commitment to a safe food preparation environment."
+    },
+    {
+        "promptCode": "M3L5P4",
+        "prompt": "Create a video sequence set in a hotel kitchen, focusing on the implementation of social distancing and safe scheduling practices. Begin with a wide shot of the kitchen, highlighting workstations spaced apart, as kitchen staff work at their individual stations, maintaining safe distances while preparing food. Transition to a close-up of a staff schedule displayed on a wall or tablet, clearly marked with staggered shifts, illustrating how shifts are arranged to minimize crowding. Emphasize both the organization of the workspace and the attention to staff safety protocols, reinforcing a well-coordinated, health-conscious kitchen environment."
+    },
+    {
+        "promptCode": "M3L5P5",
+        "prompt": "Create a video that begins with kitchen staff diligently disinfecting countertops and utensils, emphasizing careful cleaning of high-touch areas like door handles and appliance handles. Transition to a scene in the dining area, where staff are wiping down tables and chairs, ensuring thorough sanitization. Include a moment where a staff member sets out disposable cutlery, highlighting measures to maintain hygiene. Each shot should capture the detailed cleaning practices and careful attention to maintaining a safe, sanitized environment for both staff and guests. The visuals should be bright, professional, and focused on the commitment to cleanliness."
+    },
+    {
+        "promptCode": "M3L5P6",
+        "prompt": "Create a video scene showing a hotel staff member handling food with proper hygiene. The staff member is wearing gloves and carefully using utensils to avoid direct contact with the food. Next, show the food being placed into securely sealed, single-use packaging for delivery. Emphasize the cleanliness and care in handling and packaging, ensuring that food safety standards are clearly demonstrated. The scene should highlight a professional, sanitary environment that prioritizes guest health and safety."
+    },
+    {
+        "promptCode": "M3L5P7",
+        "prompt": "Create a video showcasing a well-ventilated restaurant environment. Begin in the kitchen, highlighting visible air vents strategically placed to ensure optimal airflow, with staff comfortably working in a fresh, ventilated space. Transition to the dining area, featuring large open windows that allow natural light and air to flow, creating a pleasant atmosphere for guests. Emphasize the clean, airy ambiance throughout, reinforcing the importance of good ventilation for comfort and health."
+    },
+    {
+        "promptCode": "M3L5P8",
+        "prompt": "Create a video scene starting with a hotel entrance, where the camera focuses on a prominently displayed FSSAI hygiene rating certificate near the door. The certificate should be clearly visible, showing a \u201c5-star\u201d hygiene rating logo to emphasize top standards. Slowly zoom in on the certificate to highlight the hotel\u2019s commitment to cleanliness and food safety. The setting should feel welcoming and professional, with the rating certificate positioned to catch guests' attention as they enter, underscoring the hotel\u2019s dedication to high hygiene standards."
+    },
+    {
+        "promptCode": "M3L5P9",
+        "prompt": "Create a video featuring a food safety supervisor in a kitchen environment, visibly equipped with a face mask, gloves, and a hairnet, holding an official food safety certificate. Show the supervisor attentively overseeing kitchen staff as they follow COVID-19 protocols and food safety guidelines, including frequent handwashing, surface sanitization, and wearing protective gear. The setting should reflect a clean, well-organized kitchen, reinforcing the importance of both food safety and health protocols for staff and guest protection."
+    },
+    {
+        "promptCode": "M3L5P10",
+        "prompt": "Create a video sequence showing a buffet setup where staff serve pre-portioned food to guests. Begin with an overview of the buffet layout, displaying neatly arranged, covered food stations. Highlight staff members wearing gloves and masks as they handle utensils and serve portions to maintain hygiene. Show interactions between staff and guests as they follow safe serving practices, such as minimal contact and orderly spacing. The visuals should focus on the professionalism and care taken to uphold safety standards, reinforcing a safe and comfortable dining experience for guests."
+    },
+    {
+        "promptCode": "M3L5P11",
+        "prompt": "Create a video featuring a hotel staff member professionally explaining key safety and hygiene measures to arriving guests. Position the staff member near visible posters or signs in the background that outline practices such as wearing masks, using hand sanitizers, and frequent cleaning protocols. Show close-up shots of the posters for clarity, and ensure the staff member is wearing a mask to model these practices. The overall tone should be reassuring and informative, emphasizing the hotel\u2019s commitment to maintaining a safe, hygienic environment for all guests."
+    },
+    {
+        "promptCode": "M3L5P12",
+        "prompt": "Create a video set in a restaurant dining area, beginning with a clear view of signage near the entrance reminding guests to wear masks and sanitize their hands. Show a hand sanitizing station prominently placed by the entrance, with a guest using it before proceeding to their table. The visuals should emphasize a welcoming, safe dining environment, reinforcing the restaurant\u2019s commitment to guest well-being and hygiene standards."
+    },
+    {
+        "promptCode": "M3L5P13",
+        "prompt": "Create a video featuring a hotel manager warmly explaining food safety protocols to a guest. In the background, display posters with clear hygiene messages, such as \"Clean Hands\" and \"Wash Vegetables.\" Through a transparent kitchen window, show a clean and organized kitchen where staff follow proper food safety practices. Ensure the environment feels professional and welcoming, with visuals that emphasize the hotel\u2019s commitment to hygiene and guest safety. The manager\u2019s tone should be reassuring, with attention to details that reinforce the importance of these protocols for the guest's peace of mind."
+    },
+    {
+        "promptCode": "M3L5P14",
+        "prompt": "Create a video showing a hotel staff member wearing a mask and gloves while meticulously sanitizing tables, chairs, and other surfaces in a dining area. As they work, a signboard is visible in the background, clearly displaying the hotel\u2019s safety guidelines, such as maintaining cleanliness, frequent sanitization, and personal protective equipment (PPE) usage. The scene should convey a calm, professional environment focused on health and safety, emphasizing the staff's careful adherence to protocols to protect guests and maintain hygiene standards."
+    },
+    {
+        "promptCode": "M3L6P1",
+        "prompt": "Create a video set in a stylish hotel bar, where a bartender is responsibly preparing and serving drinks to guests, showcasing attention to detail and safety. Behind the bar, clearly display an FSSAI logo and framed compliance certificates on the wall, symbolizing the establishment's commitment to food and safety regulations. The bartender should be shown handling drinks professionally, following safety protocols, and interacting warmly with guests. The scene should feel inviting and professional, highlighting both the bar\u2019s compliance with regulatory standards and the quality of guest service."
+    },
+    {
+        "promptCode": "M3L6P2",
+        "prompt": "Create a video sequence where a hotel manager is seen carefully reviewing a ledger with detailed alcohol purchase and sales records. The scene then shifts to an excise officer conducting an audit in the hotel\u2019s bar or storage room, inspecting and cross-referencing stock levels with the records. Capture the manager and officer collaborating professionally, discussing compliance standards, and verifying inventory to ensure accuracy. The setting should feel organized and professional, highlighting the hotel\u2019s commitment to regulatory compliance in managing alcohol inventory."
+    },
+    {
+        "promptCode": "M3L6P3",
+        "prompt": "Create a video sequence in which a bartender carefully places wine bottles in a temperature-controlled wine rack, ensuring each bottle is stored at the appropriate angle and temperature. Nearby, another staff member is shown sanitizing glassware, following proper cleaning techniques\u2014rinsing, polishing, and placing each glass on a drying rack. The scene should emphasize attention to detail, with both staff members focused on quality and hygiene to uphold high service standards. The setting should convey a clean, sophisticated bar environment, reinforcing the professionalism in handling wine and glassware."
+    },
+    {
+        "promptCode": "M3L6P4",
+        "prompt": "Create a video featuring a bartender who carefully sanitizes the bar counter before beginning cocktail preparation. Show the bartender arranging clean trays specifically for fresh fruits and garnishes, ensuring each item is organized and hygienic. As they prepare cocktails, the bartender maintains a clean workspace, emphasizing both sanitation and professionalism. The scene should highlight attention to cleanliness, with close-up shots of the sanitized bar counter and neatly arranged fresh ingredients, reinforcing the bar's commitment to hygiene and quality service."
+    },
+    {
+        "promptCode": "M3L6P5",
+        "prompt": "Create a video that presents a close-up view of a hotel menu featuring curated food and drink pairings. Highlight each pairing on the menu, and include clear, visible labels next to each item, indicating allergen information like nuts, dairy, and gluten. Use gentle animations to zoom in on specific dishes, with icons or symbols for allergens appearing beside each label. The scene should be well-lit, with a focus on readability and clarity, emphasizing the hotel\u2019s attention to dietary needs and guest safety."
+    },
+    {
+        "promptCode": "M3L6P6",
+        "prompt": "Create a video featuring a bartender in a well-lit bar setting, politely checking a guest\u2019s ID before serving a drink. In the background, display a clear sign reminding staff of age restrictions, with a bold \u201cBelow 21 Not Allowed\u201d message and a note on responsible service. The bartender should be professional and attentive, emphasizing the importance of verifying age and adhering to responsible service policies. The scene should communicate a respectful and responsible approach to alcohol service in line with legal and safety standards."
+    },
+    {
+        "promptCode": "M3L6P7",
+        "prompt": "Create a video that captures a hotel staff member attentively overseeing a large event, such as a wedding reception, ensuring smooth operations and guest safety. Show guests enjoying drinks served responsibly by bartenders, who are mindful of portions and guest interactions. In the background, include a visible sign reminding staff to monitor alcohol consumption as part of the venue's safety protocols. The atmosphere should be festive yet professional, highlighting the staff\u2019s role in balancing enjoyment with safety."
+    },
+    {
+        "promptCode": "M3L6P8",
+        "prompt": "Create a video scene in a hotel or restaurant kitchen showcasing clearly labeled, segregated bins for recycling, including separate containers for bottles and cans. Next to these, display a distinct container specifically labeled for used cooking oil. Each bin should be easily identifiable, with clear signage promoting proper waste disposal and recycling practices. The video should highlight the staff's careful sorting of waste items to ensure eco-friendly practices and proper environmental management."
+    },
+    {
+        "promptCode": "M3L6P9",
+        "prompt": "Create a video showing a hotel staff member responsibly handling the disposal of expired alcohol. Begin with the staff member carefully pouring the expired alcohol into a designated disposal container, taking care to avoid spills. A logbook or clipboard is visibly positioned nearby, where the staff member records details of the disposal, ensuring compliance with regulatory requirements. The setting should appear orderly, with a focus on the safe and responsible handling of expired items, underscoring the hotel's commitment to adhering to proper disposal protocols."
+    },
+    {
+        "promptCode": "M3L6P10",
+        "prompt": "Create a video set in a hotel bar where visible signs display the bar\u2019s alcohol service policies, including age restrictions (e.g., \u201cMust be 21+ to be served\u201d) and serving hours (e.g., \u201cService until 11 PM\u201d). Show a few guests at the bar being served responsibly by the bartender, who briefly points to the signage to acknowledge the rules. The setting should feel inviting yet professional, highlighting the hotel\u2019s commitment to responsible service and ensuring guests are well-informed of the bar\u2019s policies."
+    },
+    {
+        "promptCode": "M3L6P11",
+        "prompt": "Create a video set in a hotel bar, highlighting clear signage that displays the legal drinking age, positioned near the entrance and bar counter. Pan over to a prominently placed notice board informing guests of upcoming dry days, listing specific dates and providing brief explanations where applicable. The scene should focus on the bar's adherence to legal regulations, with signs that are easy to read and strategically placed to ensure visibility for all guests."
+    },
+    {
+        "promptCode": "M3L6P12",
+        "prompt": "Create a video focusing on a hotel menu that features a dedicated section for non-alcoholic beverages. Zoom in on the section to highlight a variety of refreshing options, and then pan to a small, thoughtful note encouraging responsible drinking. Include brief tips on safe consumption, such as pacing drinks and staying hydrated, displayed near the menu section. The visuals should be clear, inviting, and emphasize the hotel\u2019s commitment to guest well-being and responsible enjoyment of beverages."
+    },
+    {
+        "promptCode": "M3L7P1",
+        "prompt": "Create a video set in a hotel kitchen, where staff promptly identify and remove contaminated food items from service, demonstrating careful adherence to safety procedures. Show staff members wearing gloves and hairnets, inspecting food storage areas, and discarding any compromised items. Follow this with scenes of staff thoroughly sanitizing work surfaces and equipment according to FSSAI (Food Safety and Standards Authority of India) protocols. The video should highlight these critical steps in maintaining a safe food environment, showcasing the kitchen\u2019s commitment to hygiene and regulatory compliance."
+    },
+    {
+        "promptCode": "M3L7P2",
+        "prompt": "Create a video sequence starting with a chef closely inspecting a freshly prepared dish, ensuring quality and presentation. Transition to a contrasting scene that briefly shows a spoiled or improperly stored food item to highlight the risks of poor food handling. Follow this with a scene where a concerned guest reports feeling discomfort to a staff member, who listens attentively. The video should emphasize the importance of rigorous food inspection and handling standards to prevent incidents and ensure guest well-being, portraying a professional, attentive response in each scene."
+    },
+    {
+        "promptCode": "M3L7P3",
+        "prompt": "Create a video sequence starting with a section of a kitchen visibly cordoned off with a clear \"Quarantine\" sign posted at the entrance. Show staff members entering the area carefully, wearing gloves and masks, and conducting thorough inspections. They check each utensil, piece of equipment, and surface in the quarantined section, ensuring everything is sanitized and free from contamination. The visuals should emphasize caution and meticulousness, portraying a controlled and professional response to maintain food safety and hygiene within the kitchen."
+    },
+    {
+        "promptCode": "M3L7P4",
+        "prompt": "Create a video sequence set in a kitchen where a staff member, wearing gloves for safety, carefully disposes of contaminated food. Show them placing the items into clearly labeled disposal bins, each designated for specific types of waste. Emphasize a separate bin marked for hazardous waste to reinforce proper waste segregation practices. The scene should highlight organized disposal procedures, focusing on the staff member\u2019s careful handling and attention to kitchen safety and hygiene protocols."
+    },
+    {
+        "promptCode": "M3L7P5",
+        "prompt": "Create a video showcasing a team of hotel kitchen staff engaged in a thorough cleaning routine. Begin with staff members using disinfectants to wipe down countertops, cooking surfaces, and utensils, ensuring each area is sanitized. Each task should be shown in detail to highlight the importance of hygiene and meticulous cleaning in maintaining a safe kitchen environment. The overall tone should be professional, with clear visuals that emphasize diligence and adherence to health standards."
+    },
+    {
+        "promptCode": "M3L7P6",
+        "prompt": "Create a video scene in a hotel kitchen where kitchen and service staff gather closely around the hotel manager, who is speaking to them with an urgent tone. Some team members hold trays of plated food, poised to take action, while the group listens intently, creating a strong sense of immediate attention and concern. The setting should capture the focused expressions of the staff and the manager\u2019s leadership, emphasizing teamwork and readiness in response to an important situation. Ensure the scene is framed to show a mix of kitchen equipment and a professional, well-organized kitchen environment."
+    },
+    {
+        "promptCode": "M3L7P7",
+        "prompt": "Create a video featuring a hotel manager engaged in a professional conversation with a health authority representative, discussing protocols and preventive measures. In the background, subtly show a medical professional attending to a guest with care, creating a calm and supportive atmosphere. The scene should highlight the hotel\u2019s proactive approach to guest safety, illustrating collaboration with health authorities and readiness to address any health-related concerns. The setting should feel organized and reassuring, with visuals that emphasize the hotel\u2019s commitment to maintaining a safe environment for all guests."
+    },
+    {
+        "promptCode": "M3L7P8",
+        "prompt": "Create a video that begins with a hotel staff member attentively assisting a visibly unwell guest, offering support with empathy and professionalism. Transition to a scene where the hotel representative kindly communicates with the guest, offering a refund and a sincere apology. The representative maintains a warm, friendly tone throughout, ensuring the guest feels valued and cared for. Each part of the video should highlight the hotel's commitment to exceptional guest service, even in challenging situations, with an emphasis on empathy and professionalism in guest interactions."
+    },
+    {
+        "promptCode": "M3L7P9",
+        "prompt": "Create a video starting with a staff training session where employees are actively engaged, taking notes, and listening to a trainer explaining key food safety practices. Transition to a scene where a manager is seated at a desk, reviewing and updating a document titled \"Standard Operating Procedures\" (SOP). The manager makes detailed notes and adjustments, underscoring the commitment to maintaining up-to-date food safety standards. The setting should feel professional and focused, emphasizing the importance of continuous training and accurate documentation in food safety."
+    },
+    {
+        "promptCode": "M3L7P10",
+        "prompt": "Create a video that focuses on a hotel staff member carefully filling out an incident report. Start with close-up shots of the report form as they fill in details, including sections for actions taken, guest complaints, and any follow-up steps. Show the staff member noting specific responses to address the situation and preparing the document for submission to relevant authorities. The setting should be a professional office environment, with the staff member focused and attentive, highlighting the importance of thorough documentation and procedure in handling incidents responsibly."
+    },
+    {
+        "promptCode": "M3L7P11",
+        "prompt": "Create a video featuring a hotel manager seated at their desk, reviewing a document detailing local food safety laws. Show the manager attentively reading through regulations on a computer screen, taking notes, and cross-referencing guidelines. Next, capture them organizing this information into a comprehensive report, clearly labeled for submission to health authorities. The final scene should show the manager placing the report in a folder or preparing it for digital submission, conveying professionalism and a commitment to regulatory compliance in food safety."
+    },
+    {
+        "promptCode": "M3L7P12",
+        "prompt": "Create a video set in a well-organized hotel kitchen, where a staff member carefully handles and labels food items with clear attention to hygiene and food safety. The staff member uses a clipboard to check off safety protocols, with details such as food storage, labeling dates, and handling procedures. The video should emphasize the meticulous adherence to food safety practices, underscoring the importance of organization and regulatory compliance in the kitchen."
+    }
+]

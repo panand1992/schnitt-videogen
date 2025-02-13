@@ -1,0 +1,522 @@
+[
+    {
+        "prompt": "Generate a video starting with a blueprint design of a luxury hotel facade. As the animation progresses, the blueprint lines gradually transform into a fully constructed, elegant hotel building. Ensure a smooth transition, highlighting the progression from planning to completion, with refined architectural details coming into focus to emphasize the luxury aspect.",
+        "promptCode": "M1L1P1",
+        "frameSubprompts": [
+            {
+                "id": 1,
+                "type": "scene",
+                "text": "A detailed blueprint of a luxury hotel facade, showing the architectural design with precise lines and measurements.",
+                "frameUrl": "images/generation/videos/video0/image_1739253301_c303322f-3fcd-421e-945e-5e4b73a39b07.png"
+            },
+            {
+                "id": 2,
+                "type": "scene",
+                "text": "The blueprint begins to take shape, with the outlines of the building's structure emerging from the flat design.",
+                "frameUrl": "images/generation/videos/video0/image_1739252725_451afff3-c7ab-4110-8337-eacc62adba29.png"
+            },
+            {
+                "id": 3,
+                "type": "scene",
+                "text": "The hotel facade takes on a three-dimensional form, with the blueprint lines solidifying into the building's exterior walls and windows.",
+                "frameUrl": "images/generation/videos/video0/image_1739252736_a8179b72-692c-4426-bd22-924265e0900f.png"
+            },
+            {
+                "id": 4,
+                "type": "scene",
+                "text": "The luxury hotel building is now fully constructed, with intricate architectural details and elegant finishes coming into focus.",
+                "frameUrl": "images/generation/videos/video0/image_1739252747_031362f7-696e-4ffa-a4cf-4dd2d28bdaff.png"
+            }
+        ],
+        "sceneSubprompts": [
+            {
+                "id": 1,
+                "type": "scene",
+                "text": "A detailed blueprint of a luxury hotel facade, showing the architectural design with precise lines and measurements."
+            },
+            {
+                "id": 2,
+                "type": "bridging",
+                "text": "The blueprint lines begin to shift and morph, gradually taking on a three-dimensional form as the building's structure emerges from the flat design."
+            },
+            {
+                "id": 3,
+                "type": "scene",
+                "text": "The hotel facade takes on a three-dimensional form, with the blueprint lines solidifying into the building's exterior walls and windows."
+            },
+            {
+                "id": 4,
+                "type": "bridging",
+                "text": "The building's structure becomes more defined, with the facade details and finishes coming into focus, transforming the once-flat blueprint into a fully realized luxury hotel."
+            },
+            {
+                "id": 5,
+                "type": "scene",
+                "text": "The luxury hotel building is now fully constructed, with intricate architectural details and elegant finishes highlighting the building's luxurious design."
+            }
+        ],
+        "frameUrl": "videos/generation/frames/image_1739436977_157bda61-4d53-491d-84bf-a73962aba40d.png",
+        "videoUrl": "videos/generation/video_1739443637_31049c06-f0dc-44fa-83d6-c219e43f44c5.mp4"
+    },
+    {
+        "prompt": "Generate a video starting with a wide shot of a large luxury hotel surrounded by lush greenery and trees. The camera smoothly moves to the back of the hotel, revealing large-scale recycling bins and compost bins neatly arranged. Two inspectors are present\u2014one reviewing an environmental report near the recycling bins, and the other inspecting the compost. Capture close-up shots of the inspectors documenting their findings to visually demonstrate the inspection process required for environmental clearance. Keep the tone professional and focused on environmental responsibility. ",
+        "promptCode": "M1L1P6",
+        "frameSubprompts": [
+            {
+                "id": 1,
+                "type": "scene",
+                "text": "A wide shot of a large, luxurious hotel surrounded by lush greenery and trees."
+            },
+            {
+                "id": 2,
+                "type": "scene",
+                "text": "The camera smoothly moves to the back of the hotel, revealing large-scale recycling bins and compost bins neatly arranged."
+            },
+            {
+                "id": 3,
+                "type": "scene",
+                "text": "An inspector reviewing an environmental report near the recycling bins."
+            },
+            {
+                "id": 4,
+                "type": "scene",
+                "text": "Another inspector inspecting the compost."
+            }
+        ],
+        "sceneSubprompts": [
+            {
+                "id": 1,
+                "type": "scene",
+                "text": "A wide shot of a large, luxurious hotel surrounded by lush greenery and trees."
+            },
+            {
+                "id": 2,
+                "type": "bridging",
+                "text": "The camera smoothly moves from the front of the hotel to the back, revealing the large-scale recycling bins and compost bins neatly arranged in the rear of the property."
+            },
+            {
+                "id": 3,
+                "type": "scene",
+                "text": "An inspector in a professional uniform reviewing an environmental report near the organized recycling bins, carefully documenting their findings."
+            },
+            {
+                "id": 4,
+                "type": "bridging",
+                "text": "The camera shifts focus from the recycling area to another inspector in a similar uniform, closely inspecting the neatly organized compost bins and taking notes on their findings."
+            },
+            {
+                "id": 5,
+                "type": "scene",
+                "text": "The second inspector finishes their inspection of the compost bins, nodding with satisfaction as they document the results."
+            }
+        ],
+        "frameUrl": "images/generation/videos/video1/image_1739334923_7319d347-5af3-4dce-8d3f-b7a4b5c51293.png",
+        "videoUrl": "videos/generation/videos/video1/video_1739255810_b0d482ca-d73e-4a08-b5f3-a8327eed85d9.mp4"
+    },
+    {
+        "prompt": "Generate a video of a hotel receptionist entering guest records into a computer system with focused yet friendly body language. In the background, a police officer reviews the hotel\u2019s physical guest record logbook, carefully scanning through the entries. The officer then picks up paperwork labeled 'Police License' from a nearby desk, indicating regulatory review. Ensure smooth transitions between actions, maintaining a professional and realistic tone throughout.",
+        "promptCode": "M1L1P7",
+        "frameSubprompts": [
+            {
+                "id": 1,
+                "type": "scene",
+                "text": "A hotel receptionist sitting at the front desk, focused on entering guest records into a computer system."
+            },
+            {
+                "id": 2,
+                "type": "scene",
+                "text": "A police officer standing near a desk, carefully reviewing the hotel's physical guest record logbook."
+            },
+            {
+                "id": 3,
+                "type": "scene",
+                "text": "The police officer picking up paperwork labeled 'Police License' from the desk, indicating regulatory review."
+            }
+        ],
+        "sceneSubprompts": [
+            {
+                "id": 1,
+                "type": "scene",
+                "text": "A hotel receptionist sitting at the front desk, focused on entering guest records into a computer system with a friendly yet professional body language."
+            },
+            {
+                "id": 2,
+                "type": "scene",
+                "text": "A police officer standing near a desk, carefully reviewing the hotel's physical guest record logbook, flipping through the pages with a serious expression."
+            },
+            {
+                "id": 3,
+                "type": "bridging",
+                "text": "The police officer's gaze shifts from the logbook to the desk, where they notice the paperwork labeled 'Police License' sitting nearby."
+            },
+            {
+                "id": 4,
+                "type": "scene",
+                "text": "The police officer picks up the 'Police License' paperwork, indicating a regulatory review of the hotel's operations."
+            }
+        ],
+        "frameUrl": "images/generation/videos/video2/image_1739334959_a56a77e0-4947-416d-a7fb-d4f61fc6f0d9.png"
+    },
+    {
+        "prompt": "Generate a video of a newly constructed hotel, where an inspector carefully reviews blueprints on a table. After inspecting, the inspector gives a confident thumbs-up. Beside the blueprints, prominently display a document labeled 'Occupancy Certificate.' In the background, ensure the hotel building is visible to emphasize completion and approval. Keep the scene professional, with smooth animations or transitions to reflect a formal inspection process.",
+        "promptCode": "M1L1P8",
+        "frameSubprompts": [
+            {
+                "id": 1,
+                "type": "scene",
+                "text": "A wooden table with blueprints spread out, a magnifying glass and pen nearby."
+            },
+            {
+                "id": 2,
+                "type": "scene",
+                "text": "A close-up of the inspector's hands carefully reviewing the blueprints on the table."
+            },
+            {
+                "id": 3,
+                "type": "scene",
+                "text": "The inspector gives a confident thumbs-up, a document labeled 'Occupancy Certificate' visible on the table."
+            },
+            {
+                "id": 4,
+                "type": "scene",
+                "text": "The newly constructed hotel building in the background, signifying completion and approval."
+            }
+        ],
+        "sceneSubprompts": [
+            {
+                "id": 1,
+                "type": "scene",
+                "text": "A wooden table with blueprints spread out, a magnifying glass and pen nearby."
+            },
+            {
+                "id": 2,
+                "type": "scene",
+                "text": "A close-up of the inspector's hands carefully reviewing the blueprints on the table."
+            },
+            {
+                "id": 3,
+                "type": "bridging",
+                "text": "The inspector's hands move away from the blueprints, revealing the 'Occupancy Certificate' document on the table."
+            },
+            {
+                "id": 4,
+                "type": "scene",
+                "text": "The inspector gives a confident thumbs-up, the 'Occupancy Certificate' document clearly visible on the table."
+            },
+            {
+                "id": 5,
+                "type": "bridging",
+                "text": "The camera pans up from the table, revealing the newly constructed hotel building in the background."
+            },
+            {
+                "id": 6,
+                "type": "scene",
+                "text": "The newly constructed hotel building stands tall, signifying completion and approval."
+            }
+        ]
+    },
+    {
+        "prompt": "Generate a video of a hotel elevator being inspected by an inspector. The inspector stands in front of the open elevator doors, holding a clipboard and checking off items on a checklist. A sign above the elevator reads 'Lift Clearance.' Ensure the setting reflects a hotel environment, with subtle background details like clean walls and lighting, emphasizing the importance of inspection and compliance.",
+        "promptCode": "M1L1P9",
+        "frameSubprompts": [
+            {
+                "id": 1,
+                "type": "scene",
+                "text": "A hotel elevator with open doors, a sign above reading 'Lift Clearance'."
+            },
+            {
+                "id": 2,
+                "type": "scene",
+                "text": "An inspector standing in front of the open elevator, holding a clipboard and checking items on a checklist."
+            }
+        ],
+        "sceneSubprompts": [
+            {
+                "id": 1,
+                "type": "scene",
+                "text": "A hotel elevator with open doors, a sign above reading 'Lift Clearance'."
+            },
+            {
+                "id": 2,
+                "type": "scene",
+                "text": "An inspector standing in front of the open elevator, holding a clipboard and checking items on a checklist."
+            },
+            {
+                "id": 3,
+                "type": "bridging",
+                "text": "The inspector steps into the elevator, examining the walls and floor, making notes on the clipboard."
+            },
+            {
+                "id": 4,
+                "type": "bridging",
+                "text": "The inspector steps back out of the elevator, looking up at the sign and making a final check on the clipboard."
+            },
+            {
+                "id": 5,
+                "type": "scene",
+                "text": "The inspector nods, satisfied, and turns to leave, the hotel's clean walls and lighting visible in the background."
+            }
+        ],
+        "frameUrl": "images/generation/videos/video4/image_1739335428_63891052-36f3-41fc-a65d-d05632d1e6ad.png"
+    },
+    {
+        "prompt": "Generate a video of a closed hotel swimming pool with a 'License Pending' sign displayed prominently. Show an inspector in professional attire holding a clipboard and a water testing kit, carefully conducting tests by the poolside. The setting should emphasize that the pool is not open to guests, with barriers or ropes subtly present to indicate closure. Ensure the inspector's actions, such as taking water samples and making notes on the clipboard, are clearly visible to convey the licensing inspection process.",
+        "promptCode": "M1L1P10",
+        "frameSubprompts": [
+            {
+                "id": 1,
+                "type": "scene",
+                "text": "A closed hotel swimming pool with a 'License Pending' sign prominently displayed on the fence."
+            },
+            {
+                "id": 2,
+                "type": "scene",
+                "text": "A professional-looking inspector holding a clipboard and a water testing kit, standing by the poolside."
+            }
+        ],
+        "sceneSubprompts": [
+            {
+                "id": 1,
+                "type": "scene",
+                "text": "A closed hotel swimming pool with a 'License Pending' sign prominently displayed on the fence. The pool area is surrounded by barriers or ropes, indicating that it is not open to guests."
+            },
+            {
+                "id": 2,
+                "type": "scene",
+                "text": "A professional-looking inspector holding a clipboard and a water testing kit, standing by the poolside. The inspector is carefully conducting tests, taking water samples and making notes on the clipboard."
+            },
+            {
+                "id": 3,
+                "type": "bridging",
+                "text": "The inspector finishes the water testing and moves closer to the 'License Pending' sign, examining it closely and making additional notes on the clipboard."
+            },
+            {
+                "id": 4,
+                "type": "scene",
+                "text": "The inspector steps back, looking around the pool area and making a final assessment, before turning to leave the scene."
+            }
+        ]
+    },
+    {
+        "prompt": "Generate a video of a hotel manager dressed in a formal suit, standing in the elegant lobby of a newly constructed luxury hotel. The manager is handing over documents to an inspector, who reviews them attentively. In the background, a star-rating chart is prominently displayed on a wall. Another inspector is visible, walking through the lobby, evaluating the hotel's facilities with a clipboard in hand, adding to the atmosphere of an official inspection. Ensure the setting reflects a luxurious and modern design, with smooth, professional interactions between the characters.",
+        "promptCode": "M1L1P11",
+        "frameSubprompts": [
+            {
+                "id": 1,
+                "type": "scene",
+                "text": "A hotel manager in a formal suit standing in the elegant lobby of a newly constructed luxury hotel, handing over documents to an inspector who is reviewing them attentively."
+            },
+            {
+                "id": 2,
+                "type": "scene",
+                "text": "A star-rating chart prominently displayed on a wall in the hotel lobby."
+            },
+            {
+                "id": 3,
+                "type": "scene",
+                "text": "Another inspector walking through the lobby, evaluating the hotel's facilities with a clipboard in hand."
+            }
+        ],
+        "sceneSubprompts": [
+            {
+                "id": 1,
+                "type": "scene",
+                "text": "A hotel manager in a formal suit standing in the elegant lobby of a newly constructed luxury hotel, handing over documents to an inspector who is reviewing them attentively."
+            },
+            {
+                "id": 2,
+                "type": "scene",
+                "text": "A star-rating chart prominently displayed on a wall in the hotel lobby."
+            },
+            {
+                "id": 3,
+                "type": "scene",
+                "text": "Another inspector walking through the lobby, evaluating the hotel's facilities with a clipboard in hand."
+            },
+            {
+                "id": 4,
+                "type": "bridging",
+                "text": "The hotel manager's formal attire and the inspectors' professional demeanor blend seamlessly with the luxurious and modern design of the hotel lobby, creating an atmosphere of an official inspection."
+            }
+        ]
+    },
+    {
+        "prompt": "Generate a video of a hotel manager organizing and submitting paperwork to different local authorities. Depict the manager visiting or interacting with representatives from departments like Public Works (PWD) and Sanitation. The scenes should include moments of document handovers, signatures, and polite conversations, emphasizing professionalism and the importance of compliance. Keep the setting realistic, with appropriate office environments and subtle elements that reflect each authority\u2019s role.",
+        "promptCode": "M1L1P12",
+        "frameSubprompts": [
+            {
+                "id": 1,
+                "type": "scene",
+                "text": "A hotel manager sitting at a desk, reviewing and organizing a stack of paperwork."
+            },
+            {
+                "id": 2,
+                "type": "scene",
+                "text": "The hotel manager walking into a government office, briefcase in hand."
+            },
+            {
+                "id": 3,
+                "type": "scene",
+                "text": "The hotel manager handing over documents to a PWD representative, who reviews them at a cluttered desk."
+            },
+            {
+                "id": 4,
+                "type": "scene",
+                "text": "The hotel manager shaking hands with a Sanitation department official, exchanging pleasantries in a neatly organized office."
+            }
+        ],
+        "sceneSubprompts": [
+            {
+                "id": 1,
+                "type": "scene",
+                "text": "A hotel manager sitting at a desk, reviewing and organizing a stack of paperwork."
+            },
+            {
+                "id": 2,
+                "type": "bridging",
+                "text": "The hotel manager gathers the paperwork, places it in a briefcase, and stands up from the desk, preparing to leave the hotel office."
+            },
+            {
+                "id": 3,
+                "type": "scene",
+                "text": "The hotel manager walks through the bustling streets, briefcase in hand, towards a government office building."
+            },
+            {
+                "id": 4,
+                "type": "bridging",
+                "text": "The hotel manager enters the government office, the bustling streets outside giving way to a more formal, professional environment with polished floors and tasteful decor."
+            },
+            {
+                "id": 5,
+                "type": "scene",
+                "text": "The hotel manager approaches a desk, where a PWD representative sits surrounded by stacks of files and official-looking documents."
+            },
+            {
+                "id": 6,
+                "type": "bridging",
+                "text": "The hotel manager places the briefcase on the desk, opens it, and carefully extracts a set of documents, which the PWD representative begins to review."
+            },
+            {
+                "id": 7,
+                "type": "scene",
+                "text": "The hotel manager and the PWD representative engage in a polite conversation, discussing the documents and ensuring compliance with local regulations."
+            },
+            {
+                "id": 8,
+                "type": "bridging",
+                "text": "The hotel manager gathers the documents, shakes hands with the PWD representative, and turns to leave the office, heading towards a different government department."
+            },
+            {
+                "id": 9,
+                "type": "scene",
+                "text": "The hotel manager enters a neatly organized office, where a Sanitation department official greets him with a warm smile."
+            },
+            {
+                "id": 10,
+                "type": "bridging",
+                "text": "The hotel manager and the Sanitation official exchange pleasantries and documents, discussing the hotel's compliance with local sanitation regulations."
+            },
+            {
+                "id": 11,
+                "type": "scene",
+                "text": "The hotel manager leaves the Sanitation department office, briefcase in hand, and walks back towards the hotel, satisfied with the successful completion of his tasks."
+            }
+        ]
+    },
+    {
+        "prompt": "Generate a video of various documents and certificates sliding neatly onto a desk, one by one. In the background, a modern hotel building subtly fades into view, symbolizing the hotel's readiness for operation. Keep the scene smooth and professional, with a cohesive flow that aligns with the narrator\u2019s dialogue about required licenses and compliance.",
+        "promptCode": "M1L1P13",
+        "frameSubprompts": [
+            {
+                "id": 1,
+                "type": "scene",
+                "text": "A clean, minimalist desk with a plain white surface."
+            },
+            {
+                "id": 2,
+                "type": "scene",
+                "text": "A stack of official-looking documents and certificates neatly placed on the desk."
+            },
+            {
+                "id": 3,
+                "type": "scene",
+                "text": "The camera slowly pans out, revealing a modern hotel building in the background."
+            }
+        ],
+        "sceneSubprompts": [
+            {
+                "id": 1,
+                "type": "scene",
+                "text": "A clean, minimalist desk with a plain white surface."
+            },
+            {
+                "id": 2,
+                "type": "scene",
+                "text": "A stack of official-looking documents and certificates neatly placed on the desk."
+            },
+            {
+                "id": 3,
+                "type": "bridging",
+                "text": "The documents on the desk begin to slide and separate, one by one, as if being organized."
+            },
+            {
+                "id": 4,
+                "type": "bridging",
+                "text": "The documents slide into a neat row, revealing the surface of the desk beneath them."
+            },
+            {
+                "id": 5,
+                "type": "bridging",
+                "text": "The camera slowly pans out, and a modern hotel building in the background gradually fades into view."
+            },
+            {
+                "id": 6,
+                "type": "scene",
+                "text": "The hotel building is now clearly visible in the background, symbolizing the hotel's readiness for operation."
+            }
+        ]
+    },
+    {
+        "prompt": "Create a smooth zoom-in shot of a well-maintained hotel lobby. The scene should feature staff interacting professionally with guests, demonstrating excellent service. Subtly integrate safety features, such as a visible fire extinguisher, an exit sign, and a clean, organized environment, ensuring they blend naturally into the luxurious setting. Maintain a polished and welcoming atmosphere throughout the shot.",
+        "promptCode": "M2L1P1",
+        "frameSubprompts": [
+            {
+                "id": 1,
+                "type": "scene",
+                "text": "A grand hotel lobby with high ceilings, marble floors, and ornate chandeliers."
+            },
+            {
+                "id": 2,
+                "type": "scene",
+                "text": "A close-up of the hotel's front desk, where staff are assisting guests with a warm and professional demeanor."
+            }
+        ],
+        "sceneSubprompts": [
+            {
+                "id": 1,
+                "type": "scene",
+                "text": "A grand hotel lobby with high ceilings, marble floors, and ornate chandeliers. The space is well-lit and meticulously maintained, with a fire extinguisher and exit sign visible in the background."
+            },
+            {
+                "id": 2,
+                "type": "scene",
+                "text": "A close-up of the hotel's front desk, where staff are assisting guests with a warm and professional demeanor. The desk is clean and organized, with a computer and various guest materials neatly arranged."
+            },
+            {
+                "id": 3,
+                "type": "bridging",
+                "text": "The camera smoothly zooms in, the ornate details of the lobby gradually becoming more prominent and the front desk staff coming into sharper focus."
+            },
+            {
+                "id": 4,
+                "type": "bridging",
+                "text": "The camera continues to zoom in, highlighting the polished marble floors, the gleaming brass fixtures, and the attentive staff interacting with guests in a seamless, welcoming manner."
+            },
+            {
+                "id": 5,
+                "type": "scene",
+                "text": "A close-up of the hotel staff assisting guests, their expressions and body language conveying a high level of professionalism and service."
+            }
+        ]
+    }
+]
