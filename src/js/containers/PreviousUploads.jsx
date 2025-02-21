@@ -1,9 +1,14 @@
 /* eslint-disable react/prop-types */
-import React from 'react';
+import React, { useEffect } from 'react';
+import PropTypes from 'prop-types';
+import { connect } from 'react-redux';
+import { createStructuredSelector } from 'reselect';
 import { LogOut, Calendar, User, ChevronRight, CheckCircle, Loader2, XCircle } from 'lucide-react';
 import './VideoLibrary.scss';
 import { formatDate } from '../utils/helper';
 import { useNavigate } from 'react-router-dom';
+import { fetchPreviousUploads as fetchPreviousUploadsRequest, userLogout as userLogoutRequest } from '../actions/app';
+import { getPreviousUploads } from '../selectors/app';
 
 // Mock data for demonstration
 const mockVideos = [
@@ -38,6 +43,8 @@ const mockVideos = [
         status: "failed"
     }
 ];
+
+const videoStatus = ['failed', 'successful', 'processing']
 
 const StatusIndicator = ({ status }) => {
     const getStatusInfo = () => {
@@ -79,7 +86,9 @@ const StatusIndicator = ({ status }) => {
     );
 };
 
-const PreviousUploads = () => {
+const PreviousUploads = (props) => {
+    const { fetchPreviousUploads, previousUploads, userLogout } = props;
+
     const navigate = useNavigate();
     // const [selectedVideo, setSelectedVideo] = useState(null);
 
@@ -92,8 +101,12 @@ const PreviousUploads = () => {
     }
 
     const onClickLogout = () => {
-        // userLogout({ navigate });
+        userLogout({ navigate });
     }
+
+    useEffect(() => {
+        fetchPreviousUploads();
+    }, []);
 
     return (
         <div className="app-container">
@@ -144,9 +157,60 @@ const PreviousUploads = () => {
                         </div>
                     </div>
                 ))}
+                {previousUploads.map((video) => (
+                    <div
+                        key={video.id}
+                        className="video-card"
+                        onClick={video.status !== 2 ? () => onClickUploadDetails(video.id) : null}
+                    // onClick={() => setSelectedVideo(video)}
+                    >
+                        <div className="thumbnail-container">
+                            <img
+                                src={video.thumbnail}
+                                // alt={video.name}
+                                className="video-thumbnail"
+                            />
+                            {/* <span className="duration">{video.duration}</span> */}
+                            <div className="status-container">
+                                <StatusIndicator status={videoStatus[video.status]} />
+                            </div>
+                        </div>
+                        <div className="video-info">
+                            <h3 className="video-title">{video.name ? video.name : `Video ${video.id}`}</h3>
+                            <div className="video-metadata">
+                                <div className="metadata-item">
+                                    <Calendar className="icon" />
+                                    <span>{formatDate(video.createdAt)}</span>
+                                </div>
+                                <div className="metadata-item">
+                                    <User className="icon" />
+                                    <span>{video.updatedBy}</span>
+                                </div>
+                            </div>
+                            <div className="view-details">
+                                View Details <ChevronRight className="icon" />
+                            </div>
+                        </div>
+                    </div>
+                ))}
             </main>
         </div>
     );
 };
 
-export default PreviousUploads;
+PreviousUploads.propTypes = {
+    fetchPreviousUploads: PropTypes.func,
+    previousUploads: PropTypes.array,
+    userLogout: PropTypes.func
+}
+
+const mapStateToProps = createStructuredSelector({
+    previousUploads: getPreviousUploads()
+});
+
+const mapDispatchToProps = (dispatch) => ({
+    fetchPreviousUploads: (data) => dispatch(fetchPreviousUploadsRequest(data)),
+    userLogout: (data) => dispatch(userLogoutRequest(data))
+});
+
+export default connect(mapStateToProps, mapDispatchToProps)(PreviousUploads);

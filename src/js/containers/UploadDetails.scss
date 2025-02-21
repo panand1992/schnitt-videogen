@@ -20,6 +20,7 @@
     display: flex;
     align-items: center;
     gap: 2rem;
+    justify-content: space-between;
 }
 
 .header-content h1 {
@@ -37,6 +38,28 @@
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     gap: 2rem;
+}
+
+.icon-button {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 12px;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    color: #fff;
+}
+
+.logout-btn {
+    background: rgba(220, 53, 69, 0.2);
+}
+
+.logout-btn:hover {
+    background: rgba(220, 53, 69, 0.3);
+    transform: translateY(-1px);
 }
 
 .video-card {
