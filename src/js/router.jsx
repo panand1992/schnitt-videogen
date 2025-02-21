@@ -10,6 +10,8 @@ import PrivateRoute from './containers/PrivateRoute';
 
 const Home = lazy(() => import("./containers/Home"));
 const LoginPage = lazy(() => import("./containers/LoginPage"));
+const PreviousUploads = lazy(() => import("./containers/PreviousUploads"));
+const UploadDetails = lazy(() => import("./containers/UploadDetails"));
 
 const sagaMiddleware = createSagaMiddleware();
 
@@ -30,7 +32,16 @@ const CustomRouter = () => (
                             <Home />
                         </PrivateRoute>
                     } />
-                    {/* <Route exact path="/vg-details/:vgId" element={<VgDetails />} /> */}
+                    <Route exact path="/upload/all" element={
+                        <PrivateRoute>
+                            <PreviousUploads />
+                        </PrivateRoute>
+                    } />
+                    <Route exact path="/upload/:uploadId" element={
+                        <PrivateRoute>
+                            <UploadDetails />
+                        </PrivateRoute>
+                    } />
                     <Route exact path="/login" element={<LoginPage />} />
                 </Routes>
             </Suspense>
