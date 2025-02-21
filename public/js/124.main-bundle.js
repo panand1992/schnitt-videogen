@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkschnitt_videogen=self.webpackChunkschnitt_videogen||[]).push([[124],{124:(e,t,n)=>{n.r(t),n.d(t,{default:()=>l});var s=n(540);const l=()=>s.createElement("div",null,"Upload Details")}}]);

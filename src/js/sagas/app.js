@@ -1,8 +1,21 @@
 import { takeLatest, all, put } from 'redux-saga/effects';
 
 import axios from "../utils/axios";
-import { SET_AUTH_ERROR_MSG, SET_AUTH_LOADING, SET_IS_AUTHENTICATED, USER_LOGIN, USER_LOGOUT } from '../constants/app';
+import { GENERATE_VIDEO_FROM_PROMPT, SET_AUTH_ERROR_MSG, SET_AUTH_LOADING, SET_IS_AUTHENTICATED, USER_LOGIN, USER_LOGOUT } from '../constants/app';
 
+const generateVideoFromPrompt = function* (action) {
+    const { navigate, videoPromptData } = action.data;
+
+    try {
+        yield axios.post(`/video/generate`, videoPromptData);
+
+        // yield put({ type: SET_USER_UPLOADS, data: [response.data.videoUrl] });
+        navigate(`/upload/all`);
+    } catch (error) {
+        // eslint-disable-next-line no-console
+        console.log(error);
+    }
+}
 
 const userLogin = function* (action) {
     const { data } = action;
@@ -41,6 +54,7 @@ const userLogout = function* (action) {
 }
 
 export default function* appSaga() {
+    yield all([yield takeLatest(GENERATE_VIDEO_FROM_PROMPT, generateVideoFromPrompt)]);
     yield all([yield takeLatest(USER_LOGIN, userLogin)]);
     yield all([yield takeLatest(USER_LOGOUT, userLogout)]);
 }

@@ -5,10 +5,10 @@ import { createStructuredSelector } from 'reselect';
 import { LogOut, Film, Sparkles, Loader2 } from 'lucide-react';
 import './Home.scss';
 import { useNavigate } from 'react-router-dom';
-import { userLogout as userLogoutRequest } from '../actions/app';
+import { generateVideoFromPrompt as generateVideoFromPromptRequest, userLogout as userLogoutRequest } from '../actions/app';
 
 const Home = (props) => {
-    const { userLogout } = props;
+    const { generateVideoFromPrompt, userLogout } = props;
 
     const navigate = useNavigate();
 
@@ -19,7 +19,12 @@ const Home = (props) => {
         e.preventDefault();
         setIsGenerating(true);
         // Simulate API call
-        await new Promise(resolve => setTimeout(resolve, 2000));
+        // await new Promise(resolve => setTimeout(resolve, 2000));
+        const videoPromptData = {
+            videoPrompt: prompt
+        }
+
+        generateVideoFromPrompt({ navigate, videoPromptData });
         setIsGenerating(false);
     };
 
@@ -74,7 +79,7 @@ const Home = (props) => {
                         <button
                             type="submit"
                             className={`generate-button ${isGenerating ? 'generating' : ''}`}
-                            disabled={!prompt.trim() || isGenerating}
+                            disabled={!prompt.trim() || isGenerating || prompt < 10}
                         >
                             {isGenerating ? (
                                 <>
@@ -96,12 +101,14 @@ const Home = (props) => {
 };
 
 Home.propTypes = {
+    generateVideoFromPrompt: PropTypes.func,
     userLogout: PropTypes.func
 }
 
 const mapStateToProps = createStructuredSelector({});
 
 const mapDispatchToProps = (dispatch) => ({
+    generateVideoFromPrompt: (data) => dispatch(generateVideoFromPromptRequest(data)),
     userLogout: (data) => dispatch(userLogoutRequest(data))
 });
 
