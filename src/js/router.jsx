@@ -6,9 +6,10 @@ import { Provider } from 'react-redux';
 
 import appSaga from './sagas/app';
 import appReducer from './reducers/app';
+import PrivateRoute from './containers/PrivateRoute';
 
 const Home = lazy(() => import("./containers/Home"));
-const VgDetails = lazy(() => import("./containers/VgDetails"));
+const LoginPage = lazy(() => import("./containers/LoginPage"));
 
 const sagaMiddleware = createSagaMiddleware();
 
@@ -24,8 +25,13 @@ const CustomRouter = () => (
         <BrowserRouter>
             <Suspense fallback={<div style={{ alignItems: 'center', display: 'flex', height: '100vh', justifyContent: 'center', width: '100vw' }}> Loading...</div>}>
                 <Routes>
-                    <Route exact path="/" element={<Home />} />
-                    <Route exact path="/vg-details/:vgId" element={<VgDetails />} />
+                    <Route exact path="/" element={
+                        <PrivateRoute>
+                            <Home />
+                        </PrivateRoute>
+                    } />
+                    {/* <Route exact path="/vg-details/:vgId" element={<VgDetails />} /> */}
+                    <Route exact path="/login" element={<LoginPage />} />
                 </Routes>
             </Suspense>
         </BrowserRouter>

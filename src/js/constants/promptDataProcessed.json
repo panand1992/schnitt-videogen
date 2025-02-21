@@ -25,49 +25,51 @@
     },
     {
         "promptCode": "M1L1P11",
-        "prompt": "Generate a video of a hotel manager dressed in a formal suit, standing in the elegant lobby of a newly constructed luxury hotel. The manager is handing over documents to an inspector, who reviews them attentively. In the background, a star-rating chart is prominently displayed on a wall. Another inspector is visible, walking through the lobby, evaluating the hotel's facilities with a clipboard in hand, adding to the atmosphere of an official inspection. Ensure the setting reflects a luxurious and modern design, with smooth, professional interactions between the characters."
+        "prompt": "Generate a video of a hotel manager dressed in a formal suit, standing in the elegant lobby of a newly constructed luxury hotel. The manager is handing over documents to an inspector, who reviews them attentively. In the background, a star-rating chart is prominently displayed on a wall. Another inspector is visible, walking through the lobby, evaluating the hotel's facilities with a clipboard in hand, adding to the atmosphere of an official inspection. Ensure the setting reflects a luxurious and modern design, with smooth, professional interactions between the characters.",
+        "frameUrl": "videos/generation/frames/image_1739469633_07315e26-36e2-4e6e-bc30-db497d100791.png",
+        "videoUrl": "https://schnitt-ai.s3.amazonaws.com/videos/generation/video_1739469790_b2ae4ce2-1420-4992-9825-5e878cd29ad2.mp4"
     },
     {
         "promptCode": "M1L1P12",
-        "prompt": "Generate a video of a hotel manager organizing and submitting paperwork to different local authorities. Depict the manager visiting or interacting with representatives from departments like Public Works (PWD) and Sanitation. The scenes should include moments of document handovers, signatures, and polite conversations, emphasizing professionalism and the importance of compliance. Keep the setting realistic, with appropriate office environments and subtle elements that reflect each authority\u2019s role."
+        "prompt": "Generate a video of a hotel manager organizing and submitting paperwork to different local authorities. Depict the manager visiting or interacting with representatives from departments like Public Works (PWD) and Sanitation. The scenes should include moments of document handovers, signatures, and polite conversations, emphasizing professionalism and the importance of compliance. Keep the setting realistic, with appropriate office environments and subtle elements that reflect each authority\u2019s role.",
+        "frameUrl": "videos/generation/frames/image_1739469815_9846fc4c-9501-4faf-a100-ae6105712faf.png",
+        "videoUrl": "https://schnitt-ai.s3.amazonaws.com/videos/generation/video_1739469973_780267b8-6315-4fd8-83a9-f399b0ab57a7.mp4"
     },
     {
         "promptCode": "M1L1P13",
-        "prompt": "Generate a video of various documents and certificates sliding neatly onto a desk, one by one. In the background, a modern hotel building subtly fades into view, symbolizing the hotel's readiness for operation. Keep the scene smooth and professional, with a cohesive flow that aligns with the narrator\u2019s dialogue about required licenses and compliance."
+        "prompt": "Generate a video of various documents and certificates sliding neatly onto a desk, one by one. In the background, a modern hotel building subtly fades into view, symbolizing the hotel's readiness for operation. Keep the scene smooth and professional, with a cohesive flow that aligns with the narrator\u2019s dialogue about required licenses and compliance.",
+        "frameUrl": "videos/generation/frames/image_1739469997_1d1bd6d8-23e8-4c99-81fd-4a5f1d9134cc.png",
+        "videoUrl": "https://schnitt-ai.s3.amazonaws.com/videos/generation/video_1739470154_ef571a0a-b75f-48da-80f0-107243f98f0d.mp4"
     },
     {
         "promptCode": "M2L1P1",
-        "prompt": "Create a smooth zoom-in shot of a well-maintained hotel lobby. The scene should feature staff interacting professionally with guests, demonstrating excellent service. Subtly integrate safety features, such as a visible fire extinguisher, an exit sign, and a clean, organized environment, ensuring they blend naturally into the luxurious setting. Maintain a polished and welcoming atmosphere throughout the shot."
+        "prompt": "Create a smooth zoom-in shot of a well-maintained hotel lobby. The scene should feature staff interacting professionally with guests, demonstrating excellent service. Subtly integrate safety features, such as a visible fire extinguisher, an exit sign, and a clean, organized environment, ensuring they blend naturally into the luxurious setting. Maintain a polished and welcoming atmosphere throughout the shot.",
+        "frameUrl": "videos/generation/frames/image_1739470176_33cb3b0f-0da6-415a-9fe5-eaba93b7cf9a.png",
+        "videoUrl": "https://schnitt-ai.s3.amazonaws.com/videos/generation/video_1739470335_f5a18f38-be2c-4207-8346-f7dbff30c789.mp4"
     },
     {
         "promptCode": "M2L1P2",
-        "prompt": "Create a scene showing hospitality staff actively participating in a safety drill within a hotel lobby. The manager is at the center, clearly demonstrating emergency procedures, while staff members follow along attentively. Guests in the background observe with interest, adding a sense of realism. Ensure the setting reflects a professional and organized environment, with clear visual cues of the hotel interior, such as reception desks and decor, to emphasize the lobby location.",
-        "videoUrl": "videos/generation/video_1739445587_5878183a-0621-4e52-aab2-e971aa456785.mp4"
+        "prompt": "Create a scene showing hospitality staff actively participating in a safety drill within a hotel lobby. The manager is at the center, clearly demonstrating emergency procedures, while staff members follow along attentively. Guests in the background observe with interest, adding a sense of realism. Ensure the setting reflects a professional and organized environment, with clear visual cues of the hotel interior, such as reception desks and decor, to emphasize the lobby location."
     },
     {
         "promptCode": "M2L1P3",
-        "prompt": "Create a scene of a chef in a well-organized professional kitchen, meticulously sealing and labeling food containers. Ensure the counters are neatly arranged with clean utensils and fresh ingredients to showcase proper food handling and storage practices. The focus should be on the chef\u2019s precise movements and attention to detail, reflecting hygiene and professionalism throughout the process.",
-        "videoUrl": "videos/generation/video_1739445814_15095019-4fa8-4c93-afbc-f7649b9f7bf8.mp4"
+        "prompt": "Create a scene of a chef in a well-organized professional kitchen, meticulously sealing and labeling food containers. Ensure the counters are neatly arranged with clean utensils and fresh ingredients to showcase proper food handling and storage practices. The focus should be on the chef\u2019s precise movements and attention to detail, reflecting hygiene and professionalism throughout the process."
     },
     {
         "promptCode": "M2L1P4",
-        "prompt": "Create a visual scene featuring construction workers actively engaged at a hotel construction site. They should be wearing proper safety gear, with some workers painting, others lifting materials, and performing tasks in an organized manner. The environment should be clean, with a water station visibly placed nearby to emphasize welfare and sanitation measures on-site. Ensure the atmosphere feels professional, safe, and well-maintained, reflecting attention to worker well-being.",
-        "videoUrl": "videos/generation/video_1739445983_eb78602a-6644-46e6-a8d6-bcd7d1e38267.mp4"
+        "prompt": "Create a visual scene featuring construction workers actively engaged at a hotel construction site. They should be wearing proper safety gear, with some workers painting, others lifting materials, and performing tasks in an organized manner. The environment should be clean, with a water station visibly placed nearby to emphasize welfare and sanitation measures on-site. Ensure the atmosphere feels professional, safe, and well-maintained, reflecting attention to worker well-being."
     },
     {
         "promptCode": "M2L1P5",
-        "prompt": "Create a visual of a hotel exterior, featuring labeled waste bins for recycling and general waste placed neatly. Include trees gently swaying in the breeze to represent noise control. The background should display clear blue skies, with clean water flowing through a small garden fountain, evoking a sense of environmental care and tranquility. Ensure the scene feels serene and emphasizes the hotel's commitment to sustainability and cleanliness.",
-        "videoUrl": "videos/generation/video_1739446198_df0dc3cf-f546-48e1-bc9e-1a7caf16eac9.mp4"
+        "prompt": "Create a visual of a hotel exterior, featuring labeled waste bins for recycling and general waste placed neatly. Include trees gently swaying in the breeze to represent noise control. The background should display clear blue skies, with clean water flowing through a small garden fountain, evoking a sense of environmental care and tranquility. Ensure the scene feels serene and emphasizes the hotel's commitment to sustainability and cleanliness."
     },
     {
         "promptCode": "M2L1P6",
-        "prompt": "Create a video scene showcasing a hotel interior equipped with fire alarms, extinguishers, and clearly marked emergency exit signs. Show hotel staff actively participating in a fire drill, following safety protocols by guiding guests to exits and checking fire equipment. Emphasize preparedness and safety in action, with smooth transitions between different areas of the hotel.",
-        "videoUrl": "videos/generation/video_1739446363_6f317e49-8a44-4cf5-b126-5bea7616a23e.mp4"
+        "prompt": "Create a video scene showcasing a hotel interior equipped with fire alarms, extinguishers, and clearly marked emergency exit signs. Show hotel staff actively participating in a fire drill, following safety protocols by guiding guests to exits and checking fire equipment. Emphasize preparedness and safety in action, with smooth transitions between different areas of the hotel."
     },
     {
         "promptCode": "M2L1P7",
-        "prompt": "Create a video showing a hotel interior equipped with fire alarms, extinguishers, and clearly marked emergency exit signs, with staff actively participating in a fire drill. In the next scene, depict a hotel worker receiving medical care after a workplace accident, followed by an official handing over a compensation form. Ensure safety signs are visible in the background to reinforce the importance of safety protocols and compliance. Maintain a professional and realistic tone throughout.",
-        "videoUrl": "videos/generation/video_1739446526_b0dced5c-f4ba-4b3d-8f50-2df6e706d739.mp4"
+        "prompt": "Create a video showing a hotel interior equipped with fire alarms, extinguishers, and clearly marked emergency exit signs, with staff actively participating in a fire drill. In the next scene, depict a hotel worker receiving medical care after a workplace accident, followed by an official handing over a compensation form. Ensure safety signs are visible in the background to reinforce the importance of safety protocols and compliance. Maintain a professional and realistic tone throughout."
     },
     {
         "promptCode": "M2L1P8",
