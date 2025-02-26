@@ -113,6 +113,7 @@ const PreviousUploads = (props) => {
             <div className="glass-header">
                 <div className="header-content">
                     <h1>Previous Videos</h1>
+                    <div>Credits - {1600 - previousUploads.length}</div>
                     <button onClick={onClickLogout} className="icon-button logout-btn">
                         <LogOut />
                         <span>Logout</span>

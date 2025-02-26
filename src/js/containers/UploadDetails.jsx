@@ -95,11 +95,14 @@ const UploadDetails = (props) => {
                         <main className="detail-container">
                             <div className="video-detail-card">
                                 <div className="video-player">
-                                    <img
+                                    {/* <img
                                         src={video.thumbnail}
                                         alt={video.name}
                                         className="video-preview"
-                                    />
+                                    /> */}
+                                    <video style={{ width: '100%', height: '100%' }} src={video.videoUrl} controls>
+                                        Your browser does not support the video tag.
+                                    </video>
                                 </div>
 
                                 <div className="detail-info">
